@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>63 Cuisines of China — Interactive Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  :root{
+    --bg:#12141a;
+    --panel:#1b1e27;
+    --panel2:#232733;
+    --accent:#e0563a;
+    --text:#eee7dd;
+    --muted:#9aa0ad;
+    --border:#333846;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;height:100%;background:var(--bg);color:var(--text);
+    font-family:"Segoe UI",-apple-system,BlinkMacSystemFont,sans-serif;}
+  #app{display:flex;height:100vh;width:100vw;overflow:hidden;}
+
+  #mapWrap{flex:1;position:relative;overflow:auto;background:radial-gradient(ellipse at center,#1a1d25 0%,#0e1015 100%);}
+  #mapInner{position:relative;margin:24px auto;width:1600px;max-width:none;}
+  #mapImg{width:100%;display:block;user-select:none;-webkit-user-drag:none;border-radius:6px;
+    box-shadow:0 10px 40px rgba(0,0,0,.5);}
+  svg#overlay{position:absolute;top:0;left:0;width:100%;height:100%;}
+  svg#overlay polygon{
+    fill:rgba(255,255,255,0);
+    stroke:transparent;
+    stroke-width:2;
+    cursor:pointer;
+    transition:fill .12s ease;
+    vector-effect:non-scaling-stroke;
+  }
+  svg#overlay polygon:hover{
+    fill:rgba(255,255,255,.22);
+    stroke:#ffffff;
+  }
+  svg#overlay polygon.active{
+    fill:rgba(224,86,58,.35);
+    stroke:var(--accent);
+    stroke-width:3;
+  }
+
+  #title{position:absolute;top:14px;left:20px;z-index:5;pointer-events:none;}
+  #title h1{font-size:16px;margin:0;font-weight:600;letter-spacing:.03em;color:var(--text);
+    text-transform:uppercase;opacity:.85;}
+  #title p{margin:2px 0 0;font-size:12px;color:var(--muted);}
+
+  #hoverLabel{
+    position:fixed;pointer-events:none;z-index:50;
+    background:rgba(20,20,24,.95);color:#fff;padding:5px 10px;border-radius:5px;
+    font-size:13px;font-weight:600;letter-spacing:.02em;border:1px solid var(--border);
+    display:none;box-shadow:0 4px 14px rgba(0,0,0,.4);
+  }
+
+  #sidebar{
+    width:0;flex-shrink:0;background:var(--panel);border-left:1px solid var(--border);
+    overflow-y:auto;overflow-x:hidden;transition:width .28s ease;position:relative;
+  }
+  #sidebar.open{width:420px;}
+  #sidebarInner{width:420px;padding:0 0 60px;}
+  #sideHeader{
+    position:sticky;top:0;z-index:2;background:linear-gradient(180deg,var(--panel2),var(--panel2) 85%,transparent);
+    padding:22px 24px 14px;border-bottom:1px solid var(--border);
+  }
+  #sideHeader h2{margin:0;font-size:22px;font-weight:700;color:#fff;}
+  #closeBtn{
+    position:absolute;top:18px;right:18px;background:none;border:none;color:var(--muted);
+    font-size:20px;cursor:pointer;line-height:1;padding:4px 8px;border-radius:4px;
+  }
+  #closeBtn:hover{color:#fff;background:rgba(255,255,255,.08);}
+
+  #sideContent{padding:18px 24px;}
+  #sideContent img{width:100%;border-radius:8px;display:block;margin:10px 0 4px;
+    box-shadow:0 4px 16px rgba(0,0,0,.35);}
+  .imgCaption{font-size:12px;color:var(--muted);margin:0 0 18px;line-height:1.4;font-style:italic;}
+  .para{font-size:14.5px;line-height:1.65;color:#ddd6cb;margin:0 0 14px;}
+  .empty{color:var(--muted);font-size:14px;font-style:italic;padding:40px 0;text-align:center;}
+
+  #sidebarPlaceholder{
+    display:flex;align-items:center;justify-content:center;height:100%;color:var(--muted);
+    font-size:13px;padding:40px;text-align:center;
+  }
+
+  ::-webkit-scrollbar{width:10px;height:10px;}
+  ::-webkit-scrollbar-thumb{background:#3a3f4d;border-radius:6px;}
+  ::-webkit-scrollbar-track{background:transparent;}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="mapWrap">
+    <div id="title">
+      <h1>63 Cuisines of Mainland China</h1>
+      <p>Hover to preview, click a region for details &middot; source: Chinese Cooking Demystified</p>
+    </div>
+    <div id="mapInner">
+      <img id="mapImg" src="assets/china_map.png" alt="Map of Chinese culinary regions" draggable="false" />
+      <svg id="overlay" viewBox="0 0 100 100" preserveAspectRatio="none"></svg>
+    </div>
+  </div>
+  <div id="sidebar">
+    <div id="sidebarInner">
+      <div id="sidebarPlaceholder">Click any region on the map to see its dishes, description, and Chinese name/terms.</div>
+    </div>
+  </div>
+</div>
+<div id="hoverLabel"></div>
+
+<script>
+const svg = document.getElementById('overlay');
+const hoverLabel = document.getElementById('hoverLabel');
+const sidebar = document.getElementById('sidebar');
+const sidebarInner = document.getElementById('sidebarInner');
+
+let DATA = null;
+let activePoly = null;
+
+fetch('assets/map_data.json').then(r => r.json()).then(data => {
+  DATA = data;
+  render();
+});
+
+function render(){
+  DATA.features.forEach(feat => {
+    const pointsStr = feat.points.map(p => p.join(',')).join(' ');
+    const poly = document.createElementNS('http://www.w3.org/2000/svg','polygon');
+    poly.setAttribute('points', pointsStr);
+    poly.dataset.id = feat.id;
+    poly.addEventListener('mouseenter', (e) => {
+      hoverLabel.textContent = feat.name;
+      hoverLabel.style.display = 'block';
+      moveLabel(e);
+    });
+    poly.addEventListener('mousemove', moveLabel);
+    poly.addEventListener('mouseleave', () => { hoverLabel.style.display = 'none'; });
+    poly.addEventListener('click', () => selectFeature(feat, poly));
+    svg.appendChild(poly);
+  });
+}
+
+function moveLabel(e){
+  hoverLabel.style.left = (e.clientX + 16) + 'px';
+  hoverLabel.style.top = (e.clientY + 12) + 'px';
+}
+
+function selectFeature(feat, poly){
+  if (activePoly) activePoly.classList.remove('active');
+  poly.classList.add('active');
+  activePoly = poly;
+
+  sidebar.classList.add('open');
+
+  let html = '';
+  html += `<div id="sideHeader"><h2>${escapeHtml(feat.name)}</h2>`;
+  html += `<button id="closeBtn" title="Close">&times;</button></div>`;
+  html += `<div id="sideContent">`;
+
+  if (!feat.paragraphs.length && !feat.images.length){
+    html += `<div class="empty">No detailed write-up for this subregion in the source article.</div>`;
+  } else {
+    const imgs = feat.images;
+    const paras = feat.paragraphs;
+    const maxLen = Math.max(imgs.length, paras.length);
+    // interleave: show first image, then paragraphs, matches article flow roughly
+    imgs.forEach(im => {
+      html += `<img src="${im.src}" loading="lazy" alt="${escapeHtml(feat.name)}" />`;
+      if (im.caption) html += `<p class="imgCaption">${escapeHtml(im.caption)}</p>`;
+    });
+    paras.forEach(p => {
+      html += `<p class="para">${escapeHtml(p)}</p>`;
+    });
+  }
+  html += `</div>`;
+
+  sidebarInner.innerHTML = html;
+  document.getElementById('closeBtn').addEventListener('click', closeSidebar);
+}
+
+function closeSidebar(){
+  sidebar.classList.remove('open');
+  if (activePoly) activePoly.classList.remove('active');
+  activePoly = null;
+}
+
+function escapeHtml(s){
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+</script>
+</body>
+</html>
