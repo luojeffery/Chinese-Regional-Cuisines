@@ -154,17 +154,30 @@ function draw(){
   ctx.drawImage(mapImg, 0, 0, imgW, imgH);
 
   if (selectedId){
-    const m = getMask(selectedId, 'rgba(224,86,58,0.42)');
-    if (m) ctx.drawImage(m.canvas, m.x0, m.y0);
+    drawGroupMask(selectedId, 'rgba(224,86,58,0.42)');
   }
   if (hoverId && hoverId !== selectedId){
-    const m = getMask(hoverId, 'rgba(255,255,255,0.28)');
+    // don't re-highlight pieces already covered by the selected group
+    const selGroup = selectedId && DATA.features[selectedId] ? DATA.features[selectedId].group : null;
+    if (!selGroup || !selGroup.includes(String(hoverId))){
+      drawGroupMask(hoverId, 'rgba(255,255,255,0.28)');
+    }
+  }
+}
+
+function drawGroupMask(id, color){
+  const feat = DATA.features[id];
+  if (!feat) return;
+  const members = feat.group && feat.group.length ? feat.group : [id];
+  for (const memberId of members){
+    const m = getMask(memberId, color);
     if (m) ctx.drawImage(m.canvas, m.x0, m.y0);
   }
 }
 
 function getMask(id, color){
-  const cacheKey = id + '|' + color;
+  const numId = Number(id);
+  const cacheKey = numId + '|' + color;
   if (maskCache.has(cacheKey)) return maskCache.get(cacheKey);
   const feat = DATA.features[id];
   if (!feat || !feat.bbox) return null;
@@ -183,7 +196,7 @@ function getMask(id, color){
       const lx = x0 + col;
       if (lx < 0 || lx >= labelW) continue;
       const lidx = (ly * labelW + lx) * 4;
-      if (labelData[lidx] === id){
+      if (labelData[lidx] === numId){
         const oidx = (row * bw + col) * 4;
         imgData.data[oidx] = rgb[0];
         imgData.data[oidx+1] = rgb[1];
