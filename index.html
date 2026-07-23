@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
   :root{
-    --bg:#12141a;
+    --bg:#0e1015;
     --panel:#1b1e27;
     --panel2:#232733;
     --accent:#e0563a;
@@ -15,51 +15,28 @@
     --border:#333846;
   }
   *{box-sizing:border-box;}
-  html,body{margin:0;padding:0;height:100%;background:var(--bg);color:var(--text);
+  html,body{margin:0;padding:0;height:100%;width:100%;overflow:hidden;background:var(--bg);color:var(--text);
     font-family:"Segoe UI",-apple-system,BlinkMacSystemFont,sans-serif;}
-  #app{display:flex;height:100vh;width:100vw;overflow:hidden;}
-
-  #mapWrap{flex:1;position:relative;overflow:auto;background:radial-gradient(ellipse at center,#1a1d25 0%,#0e1015 100%);}
-  #mapInner{position:relative;margin:24px auto;width:1600px;max-width:none;}
-  #mapImg{width:100%;display:block;user-select:none;-webkit-user-drag:none;border-radius:6px;
-    box-shadow:0 10px 40px rgba(0,0,0,.5);}
-  svg#overlay{position:absolute;top:0;left:0;width:100%;height:100%;}
-  svg#overlay polygon{
-    fill:rgba(255,255,255,0);
-    stroke:transparent;
-    stroke-width:2;
-    cursor:pointer;
-    transition:fill .12s ease;
-    vector-effect:non-scaling-stroke;
-  }
-  svg#overlay polygon:hover{
-    fill:rgba(255,255,255,.22);
-    stroke:#ffffff;
-  }
-  svg#overlay polygon.active{
-    fill:rgba(224,86,58,.35);
-    stroke:var(--accent);
-    stroke-width:3;
-  }
-
-  #title{position:absolute;top:14px;left:20px;z-index:5;pointer-events:none;}
-  #title h1{font-size:16px;margin:0;font-weight:600;letter-spacing:.03em;color:var(--text);
-    text-transform:uppercase;opacity:.85;}
-  #title p{margin:2px 0 0;font-size:12px;color:var(--muted);}
+  #stage{position:fixed;inset:0;width:100vw;height:100vh;display:block;cursor:grab;touch-action:none;}
+  #stage.panning{cursor:grabbing;}
 
   #hoverLabel{
     position:fixed;pointer-events:none;z-index:50;
     background:rgba(20,20,24,.95);color:#fff;padding:5px 10px;border-radius:5px;
     font-size:13px;font-weight:600;letter-spacing:.02em;border:1px solid var(--border);
     display:none;box-shadow:0 4px 14px rgba(0,0,0,.4);
+    white-space:nowrap;
   }
 
   #sidebar{
-    width:0;flex-shrink:0;background:var(--panel);border-left:1px solid var(--border);
-    overflow-y:auto;overflow-x:hidden;transition:width .28s ease;position:relative;
+    position:fixed;top:0;right:0;bottom:0;width:420px;max-width:90vw;
+    background:var(--panel);border-left:1px solid var(--border);
+    overflow-y:auto;overflow-x:hidden;
+    transform:translateX(100%);transition:transform .28s ease;
+    box-shadow:-12px 0 40px rgba(0,0,0,.5);
+    z-index:20;
   }
-  #sidebar.open{width:420px;}
-  #sidebarInner{width:420px;padding:0 0 60px;}
+  #sidebar.open{transform:translateX(0);}
   #sideHeader{
     position:sticky;top:0;z-index:2;background:linear-gradient(180deg,var(--panel2),var(--panel2) 85%,transparent);
     padding:22px 24px 14px;border-bottom:1px solid var(--border);
@@ -78,9 +55,10 @@
   .para{font-size:14.5px;line-height:1.65;color:#ddd6cb;margin:0 0 14px;}
   .empty{color:var(--muted);font-size:14px;font-style:italic;padding:40px 0;text-align:center;}
 
-  #sidebarPlaceholder{
-    display:flex;align-items:center;justify-content:center;height:100%;color:var(--muted);
-    font-size:13px;padding:40px;text-align:center;
+  #zoomHint{
+    position:fixed;bottom:14px;left:16px;z-index:5;font-size:11px;color:var(--muted);
+    background:rgba(20,20,24,.7);padding:6px 10px;border-radius:5px;pointer-events:none;
+    border:1px solid var(--border);
   }
 
   ::-webkit-scrollbar{width:10px;height:10px;}
@@ -89,66 +67,221 @@
 </style>
 </head>
 <body>
-<div id="app">
-  <div id="mapWrap">
-    <div id="title">
-      <h1>63 Cuisines of Mainland China</h1>
-      <p>Hover to preview, click a region for details &middot; source: Chinese Cooking Demystified</p>
-    </div>
-    <div id="mapInner">
-      <img id="mapImg" src="assets/china_map.png" alt="Map of Chinese culinary regions" draggable="false" />
-      <svg id="overlay" viewBox="0 0 100 100" preserveAspectRatio="none"></svg>
-    </div>
-  </div>
-  <div id="sidebar">
-    <div id="sidebarInner">
-      <div id="sidebarPlaceholder">Click any region on the map to see its dishes, description, and Chinese name/terms.</div>
-    </div>
+<canvas id="stage"></canvas>
+<div id="hoverLabel"></div>
+<div id="zoomHint">scroll to zoom &middot; drag to pan &middot; click a region for details</div>
+<div id="sidebar">
+  <div id="sidebarInner">
+    <div class="empty" style="padding:60px 24px;">Click any region on the map to see its dishes, description, and Chinese name/terms.</div>
   </div>
 </div>
-<div id="hoverLabel"></div>
 
 <script>
-const svg = document.getElementById('overlay');
+const canvas = document.getElementById('stage');
+const ctx = canvas.getContext('2d');
 const hoverLabel = document.getElementById('hoverLabel');
 const sidebar = document.getElementById('sidebar');
 const sidebarInner = document.getElementById('sidebarInner');
 
-let DATA = null;
-let activePoly = null;
+const mapImg = new Image();
+mapImg.src = 'assets/china_map.png';
+const labelImg = new Image();
+labelImg.src = 'assets/labels.png';
 
-fetch('assets/map_data.json').then(r => r.json()).then(data => {
+let DATA = null;         // { width, height, features:{id: {name,paragraphs,images,bbox}} }
+let labelData = null;    // Uint8ClampedArray RGBA of label raster
+let labelW = 0, labelH = 0;
+let imgW = 0, imgH = 0;
+
+let scale = 1, tx = 0, ty = 0;
+const MIN_SCALE = 0.2, MAX_SCALE = 12;
+
+let hoverId = 0, selectedId = 0;
+const maskCache = new Map(); // id -> {canvas, x0, y0}
+
+let dpr = Math.max(1, window.devicePixelRatio || 1);
+
+function resizeCanvas(){
+  dpr = Math.max(1, window.devicePixelRatio || 1);
+  canvas.width = Math.round(window.innerWidth * dpr);
+  canvas.height = Math.round(window.innerHeight * dpr);
+  canvas.style.width = window.innerWidth + 'px';
+  canvas.style.height = window.innerHeight + 'px';
+  draw();
+}
+
+function fitToScreen(){
+  const pad = 0;
+  const sw = window.innerWidth - pad*2, sh = window.innerHeight - pad*2;
+  scale = Math.min(sw / imgW, sh / imgH);
+  tx = (window.innerWidth - imgW*scale) / 2;
+  ty = (window.innerHeight - imgH*scale) / 2;
+}
+
+Promise.all([
+  new Promise(res => mapImg.onload = res),
+  new Promise(res => labelImg.onload = res),
+  fetch('assets/map_data.json').then(r => r.json())
+]).then(([_, __, data]) => {
   DATA = data;
-  render();
+  imgW = mapImg.naturalWidth;
+  imgH = mapImg.naturalHeight;
+  labelW = labelImg.naturalWidth;
+  labelH = labelImg.naturalHeight;
+
+  const off = document.createElement('canvas');
+  off.width = labelW; off.height = labelH;
+  const offCtx = off.getContext('2d');
+  offCtx.drawImage(labelImg, 0, 0);
+  labelData = offCtx.getImageData(0, 0, labelW, labelH).data;
+
+  fitToScreen();
+  resizeCanvas();
 });
 
-function render(){
-  DATA.features.forEach(feat => {
-    const pointsStr = feat.points.map(p => p.join(',')).join(' ');
-    const poly = document.createElementNS('http://www.w3.org/2000/svg','polygon');
-    poly.setAttribute('points', pointsStr);
-    poly.dataset.id = feat.id;
-    poly.addEventListener('mouseenter', (e) => {
-      hoverLabel.textContent = feat.name;
-      hoverLabel.style.display = 'block';
-      moveLabel(e);
-    });
-    poly.addEventListener('mousemove', moveLabel);
-    poly.addEventListener('mouseleave', () => { hoverLabel.style.display = 'none'; });
-    poly.addEventListener('click', () => selectFeature(feat, poly));
-    svg.appendChild(poly);
-  });
+window.addEventListener('resize', () => {
+  const cx = window.innerWidth/2, cy = window.innerHeight/2;
+  resizeCanvas();
+});
+
+function draw(){
+  ctx.setTransform(1,0,0,1,0,0);
+  ctx.clearRect(0,0,canvas.width,canvas.height);
+  if (!mapImg.complete || imgW === 0) return;
+
+  ctx.setTransform(scale*dpr, 0, 0, scale*dpr, tx*dpr, ty*dpr);
+  ctx.imageSmoothingEnabled = true;
+  ctx.drawImage(mapImg, 0, 0, imgW, imgH);
+
+  if (selectedId){
+    const m = getMask(selectedId, 'rgba(224,86,58,0.42)');
+    if (m) ctx.drawImage(m.canvas, m.x0, m.y0);
+  }
+  if (hoverId && hoverId !== selectedId){
+    const m = getMask(hoverId, 'rgba(255,255,255,0.28)');
+    if (m) ctx.drawImage(m.canvas, m.x0, m.y0);
+  }
 }
 
-function moveLabel(e){
-  hoverLabel.style.left = (e.clientX + 16) + 'px';
-  hoverLabel.style.top = (e.clientY + 12) + 'px';
+function getMask(id, color){
+  const cacheKey = id + '|' + color;
+  if (maskCache.has(cacheKey)) return maskCache.get(cacheKey);
+  const feat = DATA.features[id];
+  if (!feat || !feat.bbox) return null;
+  const [x0, y0, x1, y1] = feat.bbox;
+  const bw = x1 - x0 + 1, bh = y1 - y0 + 1;
+  const mc = document.createElement('canvas');
+  mc.width = bw; mc.height = bh;
+  const mctx = mc.getContext('2d');
+  const imgData = mctx.createImageData(bw, bh);
+  const rgb = color.match(/[\d.]+/g).map(Number);
+  const alpha = Math.round(rgb[3] * 255);
+  for (let row = 0; row < bh; row++){
+    const ly = y0 + row;
+    if (ly < 0 || ly >= labelH) continue;
+    for (let col = 0; col < bw; col++){
+      const lx = x0 + col;
+      if (lx < 0 || lx >= labelW) continue;
+      const lidx = (ly * labelW + lx) * 4;
+      if (labelData[lidx] === id){
+        const oidx = (row * bw + col) * 4;
+        imgData.data[oidx] = rgb[0];
+        imgData.data[oidx+1] = rgb[1];
+        imgData.data[oidx+2] = rgb[2];
+        imgData.data[oidx+3] = alpha;
+      }
+    }
+  }
+  mctx.putImageData(imgData, 0, 0);
+  const result = { canvas: mc, x0, y0 };
+  maskCache.set(cacheKey, result);
+  return result;
 }
 
-function selectFeature(feat, poly){
-  if (activePoly) activePoly.classList.remove('active');
-  poly.classList.add('active');
-  activePoly = poly;
+function screenToImage(clientX, clientY){
+  return { x: (clientX - tx) / scale, y: (clientY - ty) / scale };
+}
+
+function idAt(clientX, clientY){
+  if (!labelData) return 0;
+  const p = screenToImage(clientX, clientY);
+  const x = Math.floor(p.x), y = Math.floor(p.y);
+  if (x < 0 || y < 0 || x >= labelW || y >= labelH) return 0;
+  const idx = (y * labelW + x) * 4;
+  return labelData[idx];
+}
+
+// --- wheel zoom (centered on cursor) ---
+canvas.addEventListener('wheel', (e) => {
+  e.preventDefault();
+  const factor = e.deltaY < 0 ? 1.15 : 1/1.15;
+  const newScale = Math.min(MAX_SCALE, Math.max(MIN_SCALE, scale * factor));
+  const p = screenToImage(e.clientX, e.clientY);
+  scale = newScale;
+  tx = e.clientX - p.x * scale;
+  ty = e.clientY - p.y * scale;
+  draw();
+}, { passive: false });
+
+// --- drag to pan / click detection ---
+let isDown = false, isDragging = false, lastX = 0, lastY = 0, downX = 0, downY = 0;
+
+canvas.addEventListener('pointerdown', (e) => {
+  isDown = true; isDragging = false;
+  lastX = e.clientX; lastY = e.clientY;
+  downX = e.clientX; downY = e.clientY;
+  canvas.setPointerCapture(e.pointerId);
+});
+
+canvas.addEventListener('pointermove', (e) => {
+  if (isDown){
+    const dx = e.clientX - lastX, dy = e.clientY - lastY;
+    if (!isDragging && (Math.abs(e.clientX-downX) > 4 || Math.abs(e.clientY-downY) > 4)){
+      isDragging = true;
+      canvas.classList.add('panning');
+      hoverLabel.style.display = 'none';
+    }
+    if (isDragging){
+      tx += dx; ty += dy;
+      lastX = e.clientX; lastY = e.clientY;
+      draw();
+      return;
+    }
+  }
+
+  const id = idAt(e.clientX, e.clientY);
+  if (id !== hoverId){
+    hoverId = id;
+    draw();
+  }
+  if (id && DATA.features[id]){
+    hoverLabel.textContent = DATA.features[id].name;
+    hoverLabel.style.display = 'block';
+    hoverLabel.style.left = (e.clientX + 16) + 'px';
+    hoverLabel.style.top = (e.clientY + 12) + 'px';
+  } else {
+    hoverLabel.style.display = 'none';
+  }
+});
+
+canvas.addEventListener('pointerup', (e) => {
+  canvas.classList.remove('panning');
+  if (!isDragging){
+    const id = idAt(e.clientX, e.clientY);
+    if (id && DATA.features[id]) selectFeature(id);
+  }
+  isDown = false; isDragging = false;
+});
+
+canvas.addEventListener('pointerleave', () => {
+  hoverLabel.style.display = 'none';
+  if (hoverId){ hoverId = 0; draw(); }
+});
+
+function selectFeature(id){
+  selectedId = id;
+  draw();
+  const feat = DATA.features[id];
 
   sidebar.classList.add('open');
 
@@ -160,15 +293,11 @@ function selectFeature(feat, poly){
   if (!feat.paragraphs.length && !feat.images.length){
     html += `<div class="empty">No detailed write-up for this subregion in the source article.</div>`;
   } else {
-    const imgs = feat.images;
-    const paras = feat.paragraphs;
-    const maxLen = Math.max(imgs.length, paras.length);
-    // interleave: show first image, then paragraphs, matches article flow roughly
-    imgs.forEach(im => {
+    feat.images.forEach(im => {
       html += `<img src="${im.src}" loading="lazy" alt="${escapeHtml(feat.name)}" />`;
       if (im.caption) html += `<p class="imgCaption">${escapeHtml(im.caption)}</p>`;
     });
-    paras.forEach(p => {
+    feat.paragraphs.forEach(p => {
       html += `<p class="para">${escapeHtml(p)}</p>`;
     });
   }
@@ -180,8 +309,8 @@ function selectFeature(feat, poly){
 
 function closeSidebar(){
   sidebar.classList.remove('open');
-  if (activePoly) activePoly.classList.remove('active');
-  activePoly = null;
+  selectedId = 0;
+  draw();
 }
 
 function escapeHtml(s){
