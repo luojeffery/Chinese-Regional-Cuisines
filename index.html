@@ -75,6 +75,26 @@
   ::-webkit-scrollbar{width:10px;height:10px;}
   ::-webkit-scrollbar-thumb{background:#3a3f4d;border-radius:6px;}
   ::-webkit-scrollbar-track{background:transparent;}
+
+  #zoomControls{
+    position:fixed;bottom:14px;right:14px;z-index:5;
+    display:flex;flex-direction:column;box-shadow:0 2px 10px rgba(0,0,0,.4);
+    border-radius:6px;overflow:hidden;border:1px solid var(--border);
+  }
+  #zoomControls button{
+    width:36px;height:36px;background:rgba(20,20,24,.85);color:#fff;
+    border:none;font-size:19px;font-weight:600;cursor:pointer;
+    display:block;line-height:1;
+  }
+  #zoomControls button:first-child{border-bottom:1px solid var(--border);}
+  #zoomControls button:hover{background:rgba(224,86,58,.85);}
+  #resetViewBtn{
+    position:fixed;bottom:14px;right:60px;z-index:5;
+    background:rgba(20,20,24,.85);color:#fff;border:1px solid var(--border);
+    border-radius:6px;padding:0 12px;height:36px;font-size:12px;cursor:pointer;
+    box-shadow:0 2px 10px rgba(0,0,0,.4);
+  }
+  #resetViewBtn:hover{background:rgba(224,86,58,.85);}
 </style>
 </head>
 <body>
@@ -82,6 +102,11 @@
 <div id="labelLayer"></div>
 <div id="hoverLabel"></div>
 <div id="zoomHint">scroll to zoom &middot; drag to pan &middot; click a region for details</div>
+<button id="resetViewBtn" title="Reset view">Reset view</button>
+<div id="zoomControls">
+  <button id="zoomInBtn" title="Zoom in">+</button>
+  <button id="zoomOutBtn" title="Zoom out">&minus;</button>
+</div>
 <div id="sidebar">
   <div id="sidebarInner">
     <div class="empty" style="padding:60px 24px;">Click any region on the map to see its dishes, description, and Chinese name/terms.</div>
@@ -125,15 +150,63 @@ function resizeCanvas(){
   draw();
 }
 
-function fitToScreen(){
+function computeFitTransform(){
   const sw = window.innerWidth, sh = window.innerHeight;
   // "contain" fit: the whole map is always visible, nothing cropped or cut
   // off at the edges. The ocean-blue background fills whatever margin is
   // left over on the shorter axis instead of leaving it blank/white.
-  scale = Math.min(sw / imgW, sh / imgH);
-  MIN_SCALE = scale;
-  tx = (sw - imgW*scale) / 2;
-  ty = (sh - imgH*scale) / 2;
+  const s = Math.min(sw / imgW, sh / imgH);
+  return { scale: s, tx: (sw - imgW*s) / 2, ty: (sh - imgH*s) / 2 };
+}
+
+function fitToScreen(){
+  const t = computeFitTransform();
+  scale = t.scale; tx = t.tx; ty = t.ty;
+  MIN_SCALE = t.scale;
+}
+
+// --- smooth camera animation (used for click-to-frame-a-region, the zoom
+// buttons, and reset-view) so this reads as a real interactive map panning
+// around instead of instant scroll-jumps ---
+let flyRaf = null;
+function animateTo(targetScale, targetTx, targetTy, duration){
+  if (flyRaf) cancelAnimationFrame(flyRaf);
+  const startScale = scale, startTx = tx, startTy = ty, startTime = performance.now();
+  function step(now){
+    const t = Math.min(1, (now - startTime) / duration);
+    const eased = 1 - Math.pow(1 - t, 3); // ease-out cubic
+    scale = startScale + (targetScale - startScale) * eased;
+    tx = startTx + (targetTx - startTx) * eased;
+    ty = startTy + (targetTy - startTy) * eased;
+    draw();
+    flyRaf = t < 1 ? requestAnimationFrame(step) : null;
+  }
+  flyRaf = requestAnimationFrame(step);
+}
+
+function flyToFeature(feat){
+  const [x0, y0, x1, y1] = feat.bbox;
+  const bw = Math.max(1, x1 - x0), bh = Math.max(1, y1 - y0);
+  const sidebarW = Math.min(420, window.innerWidth * 0.9);
+  const availW = Math.max(200, window.innerWidth - sidebarW);
+  const availH = window.innerHeight;
+  const PAD = 0.7; // leave breathing room instead of edge-to-edge framing
+  const fitScale = Math.min(availW / bw, availH / bh) * PAD;
+  const targetScale = Math.min(MAX_SCALE, Math.max(MIN_SCALE, fitScale));
+  const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
+  const targetTx = availW / 2 - cx * targetScale;
+  const targetTy = availH / 2 - cy * targetScale;
+  animateTo(targetScale, targetTx, targetTy, 600);
+}
+
+function zoomBy(factor){
+  if (flyRaf) cancelAnimationFrame(flyRaf);
+  const cx = window.innerWidth / 2, cy = window.innerHeight / 2;
+  const p = screenToImage(cx, cy);
+  const targetScale = Math.min(MAX_SCALE, Math.max(MIN_SCALE, scale * factor));
+  const targetTx = cx - p.x * targetScale;
+  const targetTy = cy - p.y * targetScale;
+  animateTo(targetScale, targetTx, targetTy, 260);
 }
 
 Promise.all([
@@ -271,6 +344,7 @@ function idAt(clientX, clientY){
 // --- wheel zoom (centered on cursor) ---
 canvas.addEventListener('wheel', (e) => {
   e.preventDefault();
+  if (flyRaf) cancelAnimationFrame(flyRaf);
   const factor = e.deltaY < 0 ? 1.15 : 1/1.15;
   const newScale = Math.min(MAX_SCALE, Math.max(MIN_SCALE, scale * factor));
   const p = screenToImage(e.clientX, e.clientY);
@@ -280,10 +354,19 @@ canvas.addEventListener('wheel', (e) => {
   draw();
 }, { passive: false });
 
+canvas.addEventListener('dblclick', (e) => {
+  const p = screenToImage(e.clientX, e.clientY);
+  const targetScale = Math.min(MAX_SCALE, scale * 1.8);
+  const targetTx = e.clientX - p.x * targetScale;
+  const targetTy = e.clientY - p.y * targetScale;
+  animateTo(targetScale, targetTx, targetTy, 320);
+});
+
 // --- drag to pan / click detection ---
 let isDown = false, isDragging = false, lastX = 0, lastY = 0, downX = 0, downY = 0;
 
 canvas.addEventListener('pointerdown', (e) => {
+  if (flyRaf) cancelAnimationFrame(flyRaf);
   isDown = true; isDragging = false;
   lastX = e.clientX; lastY = e.clientY;
   downX = e.clientX; downY = e.clientY;
@@ -341,6 +424,7 @@ function selectFeature(id){
   const feat = DATA.features[id];
 
   sidebar.classList.add('open');
+  flyToFeature(feat);
 
   let html = '';
   html += `<div id="sideHeader"><h2>${escapeHtml(feat.name)}</h2>`;
@@ -373,6 +457,14 @@ function closeSidebar(){
 function escapeHtml(s){
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
+
+document.getElementById('zoomInBtn').addEventListener('click', () => zoomBy(1.5));
+document.getElementById('zoomOutBtn').addEventListener('click', () => zoomBy(1/1.5));
+document.getElementById('resetViewBtn').addEventListener('click', () => {
+  closeSidebar();
+  const t = computeFitTransform();
+  animateTo(t.scale, t.tx, t.ty, 500);
+});
 </script>
 </body>
 </html>
