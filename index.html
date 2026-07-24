@@ -113,10 +113,10 @@ function resizeCanvas(){
 
 function fitToScreen(){
   const sw = window.innerWidth, sh = window.innerHeight;
-  // "cover" fit: the map always fills the entire viewport edge-to-edge with
-  // no empty space, cropping whichever axis overflows. This is also the
-  // most-zoomed-out state allowed, so the page never shows blank space.
-  scale = Math.max(sw / imgW, sh / imgH);
+  // "contain" fit: the whole map is always visible, nothing cropped or cut
+  // off at the edges. The ocean-blue background fills whatever margin is
+  // left over on the shorter axis instead of leaving it blank/white.
+  scale = Math.min(sw / imgW, sh / imgH);
   MIN_SCALE = scale;
   tx = (sw - imgW*scale) / 2;
   ty = (sh - imgH*scale) / 2;
@@ -150,7 +150,8 @@ window.addEventListener('resize', () => {
 
 function draw(){
   ctx.setTransform(1,0,0,1,0,0);
-  ctx.clearRect(0,0,canvas.width,canvas.height);
+  ctx.fillStyle = '#add8e6';
+  ctx.fillRect(0,0,canvas.width,canvas.height);
   if (!mapImg.complete || imgW === 0) return;
 
   ctx.setTransform(scale*dpr, 0, 0, scale*dpr, tx*dpr, ty*dpr);
