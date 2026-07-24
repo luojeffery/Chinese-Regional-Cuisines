@@ -94,7 +94,8 @@ let labelW = 0, labelH = 0;
 let imgW = 0, imgH = 0;
 
 let scale = 1, tx = 0, ty = 0;
-const MIN_SCALE = 0.2, MAX_SCALE = 12;
+let MIN_SCALE = 0.2;
+const MAX_SCALE = 12;
 
 let hoverId = 0, selectedId = 0;
 const maskCache = new Map(); // id -> {canvas, x0, y0}
@@ -111,11 +112,14 @@ function resizeCanvas(){
 }
 
 function fitToScreen(){
-  const pad = 0;
-  const sw = window.innerWidth - pad*2, sh = window.innerHeight - pad*2;
-  scale = Math.min(sw / imgW, sh / imgH);
-  tx = (window.innerWidth - imgW*scale) / 2;
-  ty = (window.innerHeight - imgH*scale) / 2;
+  const sw = window.innerWidth, sh = window.innerHeight;
+  // "cover" fit: the map always fills the entire viewport edge-to-edge with
+  // no empty space, cropping whichever axis overflows. This is also the
+  // most-zoomed-out state allowed, so the page never shows blank space.
+  scale = Math.max(sw / imgW, sh / imgH);
+  MIN_SCALE = scale;
+  tx = (sw - imgW*scale) / 2;
+  ty = (sh - imgH*scale) / 2;
 }
 
 Promise.all([
@@ -196,7 +200,11 @@ function getMask(id, color){
       const lx = x0 + col;
       if (lx < 0 || lx >= labelW) continue;
       const lidx = (ly * labelW + lx) * 4;
-      if (labelData[lidx] === numId){
+      // alpha 255 = a genuine painted-color pixel (tint it); alpha 200 =
+      // reclaimed label/border/text -- still fully clickable as part of the
+      // region, but skipped here so printed labels stay legible instead of
+      // turning into a solid highlighted block
+      if (labelData[lidx] === numId && labelData[lidx + 3] === 255){
         const oidx = (row * bw + col) * 4;
         imgData.data[oidx] = rgb[0];
         imgData.data[oidx+1] = rgb[1];
