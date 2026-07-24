@@ -55,6 +55,17 @@
   .para{font-size:14.5px;line-height:1.65;color:#ddd6cb;margin:0 0 14px;}
   .empty{color:var(--muted);font-size:14px;font-style:italic;padding:40px 0;text-align:center;}
 
+  #labelLayer{position:fixed;inset:0;pointer-events:none;overflow:hidden;z-index:3;}
+  .mapLabel{
+    position:absolute;top:0;left:0;
+    transform:translate(-50%,-50%);
+    background:#fff;color:#111;
+    font-weight:700;font-size:11px;letter-spacing:.01em;
+    padding:2px 5px;border-radius:2px;white-space:nowrap;
+    box-shadow:0 1px 3px rgba(0,0,0,.35);
+    font-family:"Segoe UI",-apple-system,BlinkMacSystemFont,sans-serif;
+  }
+
   #zoomHint{
     position:fixed;bottom:14px;left:16px;z-index:5;font-size:11px;color:var(--muted);
     background:rgba(20,20,24,.7);padding:6px 10px;border-radius:5px;pointer-events:none;
@@ -68,6 +79,7 @@
 </head>
 <body>
 <canvas id="stage"></canvas>
+<div id="labelLayer"></div>
 <div id="hoverLabel"></div>
 <div id="zoomHint">scroll to zoom &middot; drag to pan &middot; click a region for details</div>
 <div id="sidebar">
@@ -80,8 +92,10 @@
 const canvas = document.getElementById('stage');
 const ctx = canvas.getContext('2d');
 const hoverLabel = document.getElementById('hoverLabel');
+const labelLayer = document.getElementById('labelLayer');
 const sidebar = document.getElementById('sidebar');
 const sidebarInner = document.getElementById('sidebarInner');
+let labelEls = []; // [{el, x, y}] world-space anchor, screen pos applied every draw
 
 const mapImg = new Image();
 mapImg.src = 'assets/china_map.png';
@@ -139,6 +153,14 @@ Promise.all([
   offCtx.drawImage(labelImg, 0, 0);
   labelData = offCtx.getImageData(0, 0, labelW, labelH).data;
 
+  labelEls = (DATA.labels || []).map(l => {
+    const el = document.createElement('div');
+    el.className = 'mapLabel';
+    el.textContent = l.name.toUpperCase();
+    labelLayer.appendChild(el);
+    return { el, x: l.x, y: l.y };
+  });
+
   fitToScreen();
   resizeCanvas();
 });
@@ -167,6 +189,19 @@ function draw(){
     if (!selGroup || !selGroup.includes(String(hoverId))){
       drawGroupMask(hoverId, 'rgba(255,255,255,0.28)');
     }
+  }
+
+  updateLabelPositions();
+}
+
+function updateLabelPositions(){
+  // labels are real DOM nodes with a fixed CSS font-size, so they stay the
+  // same on-screen size at any zoom level instead of scaling with the map
+  // image the way the old baked-in text labels did
+  for (const l of labelEls){
+    const sx = tx + l.x * scale;
+    const sy = ty + l.y * scale;
+    l.el.style.transform = `translate(${sx}px, ${sy}px) translate(-50%,-50%)`;
   }
 }
 
