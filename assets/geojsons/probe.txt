@@ -1,0 +1,4 @@
+{'GID_2': 'CHN.1.1_1', 'GID_0': 'CHN', 'COUNTRY': 'China', 'GID_1': 'CHN.1_1', 'NAME_1': 'Anhui', 'NL_NAME_1': '安徽|安徽', 'NAME_2': 'Anqing', 'VARNAME_2': 'Ānqìng', 'NL_NAME_2': '安庆市', 'TYPE_2': 'Dìjíshì', 'ENGTYPE_2': 'PrefectureCity', 'CC_2': 'NA', 'HASC_2': 'NA'}
+368
+{'GID_3': 'CHN.1.1.1_1', 'GID_0': 'CHN', 'COUNTRY': 'China', 'GID_1': 'CHN.1_1', 'NAME_1': 'Anhui', 'NL_NAME_1': '安徽|安徽', 'GID_2': 'CHN.1.1_1', 'NAME_2': 'Anqing', 'NL_NAME_2': '安庆市', 'NAME_3': 'Anqing', 'VARNAME_3': 'NA', 'NL_NAME_3': 'NA', 'TYPE_3': 'Xiànjíshì', 'ENGTYPE_3': 'CountyCity', 'CC_3': 'NA', 'HASC_3': 'NA'}
+2421
