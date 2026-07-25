@@ -855,10 +855,10 @@ Promise.all([
     regionOutlineImg.onload = resolve;
     regionOutlineImg.onerror = resolve;
   }),
-  fetch("assets/map_data.json?v=edit-regions-hidden").then((response) => response.json()),
-  fetch("assets/region_geojson.json?v=edit-regions-hidden").then((response) => response.json()),
-  fetch("assets/region_colors.json?v=edit-regions-hidden").then((response) => response.json()),
-  fetch("assets/article_media.json?v=edit-regions-hidden").then((response) => response.json()),
+  fetch("assets/map_data.json?v=source-credit").then((response) => response.json()),
+  fetch("assets/region_geojson.json?v=source-credit").then((response) => response.json()),
+  fetch("assets/region_colors.json?v=source-credit").then((response) => response.json()),
+  fetch("assets/article_media.json?v=source-credit").then((response) => response.json()),
 ]).then(([, data, geo, colors, media]) => initialize(data, geo, colors, media)).catch((error) => {
   console.error(error);
   sidebarInner.innerHTML = `<div class="empty" style="padding:60px 24px;">Map data could not be loaded.</div>`;

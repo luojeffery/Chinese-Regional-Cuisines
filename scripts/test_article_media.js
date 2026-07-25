@@ -6,6 +6,7 @@ const root = path.resolve(__dirname, "..");
 const media = JSON.parse(fs.readFileSync(path.join(root, "assets", "article_media.json"), "utf8"));
 const mapData = JSON.parse(fs.readFileSync(path.join(root, "assets", "map_data.json"), "utf8"));
 const mapJs = fs.readFileSync(path.join(root, "assets", "map.js"), "utf8");
+const indexHtml = fs.readFileSync(path.join(root, "index.html"), "utf8");
 const cantoneseFiles = fs.readdirSync(path.join(root, "assets", "images", "cantonese")).filter((name) => /^img\d+\.(jpg|png|webp)$/i.test(name));
 const tibetFiles = fs.existsSync(path.join(root, "assets", "images", "the-tibetan-plateau"))
   ? fs.readdirSync(path.join(root, "assets", "images", "the-tibetan-plateau")).filter((name) => /^img\d+\.(jpg|png|webp)$/i.test(name))
@@ -88,3 +89,5 @@ assert.ok(
 );
 assert.match(mapJs, /fetch\("assets\/article_media\.json\?v=/, "sidebar should load extracted article media");
 assert.match(mapJs, /fetch\("assets\/map_data\.json\?v=/, "sidebar base data should be cache-busted after media cleanup");
+assert.match(indexHtml, /Food writing and photos: Chinese Cooking Demystified/, "page should credit Chinese Cooking Demystified");
+assert.match(indexHtml, /chinesecookingdemystified\.substack\.com\/p\/63-chinese-cuisines-the-complete/, "source credit should link to the original article");

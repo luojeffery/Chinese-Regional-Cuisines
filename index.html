@@ -98,6 +98,12 @@
     background:rgba(20,20,24,.7);padding:6px 10px;border-radius:5px;pointer-events:none;
     border:1px solid var(--border);
   }
+  #sourceCredit{
+    position:fixed;bottom:48px;left:16px;z-index:5;font-size:11px;color:var(--muted);
+    background:rgba(20,20,24,.78);padding:6px 10px;border-radius:5px;
+    border:1px solid var(--border);text-decoration:none;
+  }
+  #sourceCredit:hover{color:#fff;background:rgba(224,86,58,.85);}
 
   ::-webkit-scrollbar{width:10px;height:10px;}
   ::-webkit-scrollbar-thumb{background:#3a3f4d;border-radius:6px;}
@@ -185,6 +191,7 @@
 <canvas id="stage"></canvas>
 <div id="labelLayer"></div>
 <div id="hoverLabel"></div>
+<a id="sourceCredit" href="https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete" target="_blank" rel="noopener noreferrer">Food writing and photos: Chinese Cooking Demystified</a>
 <div id="zoomHint">scroll to zoom &middot; drag to pan &middot; click a region for details</div>
 <button id="resetViewBtn" title="Reset view">Reset view</button>
 <div id="zoomControls">
@@ -230,10 +237,10 @@
   </div>
 </div>
 
-<script src="assets/editor_state.js?v=edit-regions-hidden"></script>
-<script src="assets/input_events.js?v=edit-regions-hidden"></script>
-<script src="assets/spatial_index.js?v=edit-regions-hidden"></script>
-<script src="assets/map.js?v=edit-regions-hidden"></script>
+<script src="assets/editor_state.js?v=source-credit"></script>
+<script src="assets/input_events.js?v=source-credit"></script>
+<script src="assets/spatial_index.js?v=source-credit"></script>
+<script src="assets/map.js?v=source-credit"></script>
 <script type="text/plain" id="legacy-raster-script">
 const canvas = document.getElementById('stage');
 const ctx = canvas.getContext('2d');
