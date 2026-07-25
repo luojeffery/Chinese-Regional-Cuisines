@@ -29,6 +29,9 @@ let articleMedia = {};
 let countyFeatures = [];
 let prefectureFeatures = [];
 let regionDetails = new Map();
+const REGION_DISPLAY_NAMES = {
+  "Lianzhou Yao": "Lianzhou (Yao)",
+};
 let labelEls = [];
 let regionCatalog = [];
 let activeRegion = null;
@@ -625,7 +628,8 @@ function selectFeature(feature) {
   flyToRegion(props.region);
   const details = regionDetails.get(props.region);
   let html = "";
-  html += `<div id="sideHeader"><h2>${escapeHtml(props.region)}</h2>`;
+  const displayRegionName = REGION_DISPLAY_NAMES[props.region] || props.region;
+  html += `<div id="sideHeader"><h2>${escapeHtml(displayRegionName)}</h2>`;
   html += `<button id="closeBtn" title="Close">&times;</button></div>`;
   html += `<div id="sideContent">`;
   html += `<p class="para"><strong>${escapeHtml(props.NAME_3)}</strong>, ${escapeHtml(props.NAME_2)}, ${escapeHtml(props.NAME_1)}</p>`;
@@ -699,7 +703,7 @@ function buildRegionDetails() {
   for (const [name, media] of Object.entries(articleMedia || {})) {
     const existing = regionDetails.get(name) || { paragraphs: [], images: [] };
     regionDetails.set(name, {
-      paragraphs: existing.paragraphs,
+      paragraphs: media.paragraphs && media.paragraphs.length ? media.paragraphs : existing.paragraphs,
       images: media.images && media.images.length ? media.images : existing.images,
       source: media.source,
     });
