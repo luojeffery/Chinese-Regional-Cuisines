@@ -1,0 +1,6670 @@
+{
+  "CHN.1.1.1_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.1.2_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.1.3_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.1.4_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.1.5_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.1.6_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.1.7_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.1.8_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.1.9_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.10.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.10.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.11.1_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.11.2_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.11.3_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.11.4_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.11.5_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.11.6_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.12.1_1": {
+    "fill": "#ffa335",
+    "region": "Lu’an"
+  },
+  "CHN.1.12.2_1": {
+    "fill": "#ffa335",
+    "region": "Lu’an"
+  },
+  "CHN.1.12.3_1": {
+    "fill": "#ffa335",
+    "region": "Lu’an"
+  },
+  "CHN.1.12.4_1": {
+    "fill": "#ffa335",
+    "region": "Lu’an"
+  },
+  "CHN.1.12.5_1": {
+    "fill": "#ffa335",
+    "region": "Lu’an"
+  },
+  "CHN.1.12.6_1": {
+    "fill": "#ffa335",
+    "region": "Lu’an"
+  },
+  "CHN.1.13.1_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.13.2_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.14.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.14.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.14.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.14.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.14.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.15.1_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.16.1_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.16.2_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.16.3_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.17.1_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.17.2_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.17.3_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.17.4_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.17.5_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.17.6_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.17.7_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.2.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.2.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.2.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.2.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.3.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.3.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.3.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.3.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.4.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.4.2_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.4.3_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.4.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.4.5_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.5.1_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.5.2_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.5.3_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.5.4_1": {
+    "fill": "#06f14f",
+    "region": "Anhui South"
+  },
+  "CHN.1.6.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.6.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.6.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.6.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.6.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.6.6_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.6.7_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.7.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.7.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.7.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.7.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.7.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.7.6_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.8.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.8.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.8.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.8.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.9.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.1.9.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Anhui North (and Anhui Central)"
+  },
+  "CHN.10.1.10_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.11_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.12_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.13_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.14_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.15_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.16_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.17_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.18_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.19_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.1_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.20_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.21_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.22_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.23_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.2_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.3_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.4_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.5_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.6_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.7_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.8_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.1.9_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.10_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.11_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.12_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.13_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.14_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.1_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.2_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.3_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.4_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.5_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.6_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.7_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.8_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.11.9_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.10_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.11_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.12_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.13_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.14_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.15_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.1_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.2_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.3_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.4_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.5_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.6_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.7_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.8_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.2.9_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.10_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.11_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.12_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.13_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.14_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.15_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.16_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.17_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.1_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.2_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.3_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.4_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.5_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.6_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.7_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.8_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.4.9_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.10_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.11_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.1_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.2_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.3_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.4_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.5_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.6_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.7_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.8_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.5.9_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.6.1_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.6.2_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.6.3_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.6.4_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.6.5_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.6.6_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.6.7_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.6.8_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.6.9_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.10_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.11_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.12_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.13_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.14_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.15_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.16_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.17_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.18_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.1_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.2_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.3_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.4_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.5_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.6_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.7_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.8_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.10.8.9_1": {
+    "fill": "#b6d4ec",
+    "region": "Hebei"
+  },
+  "CHN.11.12.10_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.12.1_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.12.2_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.12.3_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.12.4_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.12.5_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.12.6_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.12.7_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.12.8_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.12.9_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.2.1_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.11.2.2_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.11.2.3_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.11.2.4_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.11.2.5_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.11.3.10_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.11_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.12_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.13_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.1_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.2_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.3_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.4_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.5_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.6_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.7_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.8_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.3.9_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.8.1_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.8.2_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.8.3_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.8.4_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.8.5_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.8.6_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.11.8.7_1": {
+    "fill": "#feca40",
+    "region": "Heilongjiang Dongbei"
+  },
+  "CHN.12.1.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.1.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.1.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.1.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.1.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.1.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.10.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.10.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.10.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.10.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.10.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.10.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.11.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.11.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.11.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.11.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.11.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.11.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.12.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.12.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.12.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.12.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.12.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.12.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.12.7_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.12.8_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.12.9_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.13.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.13.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.13.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.13.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.13.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.13.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.13.7_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.13.8_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.13.9_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.14.10_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.14.1_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.14.2_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.14.3_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.14.4_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.14.5_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.14.6_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.14.7_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.14.8_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.14.9_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.12.15.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.15.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.15.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.15.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.15.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.15.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.16.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.16.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.16.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.16.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.16.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.16.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.16.7_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.10_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.7_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.8_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.17.9_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.10_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.7_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.8_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.18.9_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.2.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.2.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.2.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.3.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.3.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.3.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.3.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.3.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.3.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.3.7_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.4.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.5.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.5.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.5.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.5.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.5.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.5.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.6.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.6.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.6.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.6.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.10_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.7_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.8_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.7.9_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.10_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.11_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.12_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.13_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.7_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.8_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.8.9_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.9.1_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.9.2_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.9.3_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.9.4_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.9.5_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.9.6_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.12.9.7_1": {
+    "fill": "#b56aff",
+    "region": "Henan"
+  },
+  "CHN.13.1.1_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.13.1.2_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.13.1.3_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.13.1.4_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.13.1.5_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.13.1.6_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.13.1.7_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.13.1.8_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.13.10.1_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.10.2_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.13.1_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.13.2_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.13.3_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.13.4_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.13.5_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.13.6_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.13.7_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.13.8_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.16.1_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.16.2_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.16.3_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.16.4_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.16.5_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.16.6_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.16.7_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.10_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.1_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.2_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.3_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.4_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.5_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.6_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.7_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.8_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.17.9_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.3.1_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.3.2_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.3.3_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.3.4_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.3.5_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.3.6_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.3.7_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.3.8_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.3.9_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.5.1_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.5.2_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.5.3_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.5.4_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.8.1_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.9.1_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.9.2_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.9.3_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.9.4_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.9.5_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.9.6_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.13.9.7_1": {
+    "fill": "#909adb",
+    "region": "Hubei"
+  },
+  "CHN.14.1.1_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.1.2_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.1.3_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.1.4_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.1.5_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.1.6_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.1.7_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.1.8_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.1.9_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.10.1_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.10.2_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.10.3_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.10.4_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.10.5_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.10.6_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.10_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.1_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.2_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.3_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.4_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.5_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.6_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.7_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.8_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.11.9_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.12.1_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.12.2_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.12.3_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.12.4_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.12.5_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.12.6_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.12.7_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.2.1_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.2.2_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.2.3_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.2.4_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.2.5_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.4.4_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.6.1_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.6.2_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.6.3_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.6.4_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.6.5_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.10_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.11_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.1_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.2_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.3_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.4_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.5_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.6_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.7_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.8_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.7.9_1": {
+    "fill": "#ff0202",
+    "region": "Xiang"
+  },
+  "CHN.14.9.1_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.14.9.3_1": {
+    "fill": "#ffdc17",
+    "region": "Hunan West"
+  },
+  "CHN.15.1.1_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.1.2_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.1.3_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.1.4_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.10.1_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.10.2_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.10.3_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.10.4_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.10.5_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.10.6_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.10.7_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.11.1_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.11.2_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.11.3_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.11.4_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.11.5_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.11.6_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.11.7_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.11.8_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.11.9_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.12.1_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.12.2_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.12.3_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.12.4_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.12.5_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.12.6_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.13.1_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.13.2_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.13.3_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.13.4_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.13.5_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.2.1_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.2.2_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.2.3_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.2.4_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.2.5_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.2.6_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.2.7_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.3.1_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.3.2_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.3.3_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.3.4_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.3.5_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.4.1_1": {
+    "fill": "#7cf867",
+    "region": "Nanjing"
+  },
+  "CHN.15.4.2_1": {
+    "fill": "#7cf867",
+    "region": "Nanjing"
+  },
+  "CHN.15.4.3_1": {
+    "fill": "#7cf867",
+    "region": "Nanjing"
+  },
+  "CHN.15.4.4_1": {
+    "fill": "#7cf867",
+    "region": "Nanjing"
+  },
+  "CHN.15.4.5_1": {
+    "fill": "#7cf867",
+    "region": "Nanjing"
+  },
+  "CHN.15.4.6_1": {
+    "fill": "#7cf867",
+    "region": "Nanjing"
+  },
+  "CHN.15.5.1_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.5.2_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.5.3_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.5.4_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.5.5_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.5.6_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.5.7_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.6.1_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.6.2_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.6.3_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.6.4_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.6.5_1": {
+    "fill": "#3f4cf5",
+    "region": "Jiangsu North"
+  },
+  "CHN.15.7.1_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.7.2_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.7.3_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.7.4_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.7.5_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.7.6_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.7.7_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.8.1_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.8.2_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.8.3_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.8.4_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.8.5_1": {
+    "fill": "#f54c3f",
+    "region": "Classical Huaiyang (plus Tucai)"
+  },
+  "CHN.15.9.1_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.9.2_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.9.3_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.9.4_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.15.9.5_1": {
+    "fill": "#00ffde",
+    "region": "Suzhou-Wuxi"
+  },
+  "CHN.16.1.10_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.11_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.1_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.2_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.3_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.4_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.5_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.6_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.7_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.8_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.1.9_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.10_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.1_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.2_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.3_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.4_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.5_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.6_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.7_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.8_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.10.9_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.2.10_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.11_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.12_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.13_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.14_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.15_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.16_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.17_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.18_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.1_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.2_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.3_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.4_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.5_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.6_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.7_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.8_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.2.9_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.16.3.13_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.3.4_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.3.6_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.10_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.11_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.1_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.2_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.3_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.4_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.5_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.6_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.7_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.8_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.5.9_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.6.1_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.6.2_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.6.3_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.6.4_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.6.5_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.6.6_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.7.1_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.7.2_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.8.10_1": {
+    "fill": "#fcff00",
+    "region": "Northeast Jiangxi Mountains"
+  },
+  "CHN.16.8.11_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.8.12_1": {
+    "fill": "#fcff00",
+    "region": "Northeast Jiangxi Mountains"
+  },
+  "CHN.16.8.1_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.8.2_1": {
+    "fill": "#fcff00",
+    "region": "Northeast Jiangxi Mountains"
+  },
+  "CHN.16.8.3_1": {
+    "fill": "#fcff00",
+    "region": "Northeast Jiangxi Mountains"
+  },
+  "CHN.16.8.4_1": {
+    "fill": "#fcff00",
+    "region": "Northeast Jiangxi Mountains"
+  },
+  "CHN.16.8.5_1": {
+    "fill": "#fcff00",
+    "region": "Northeast Jiangxi Mountains"
+  },
+  "CHN.16.8.6_1": {
+    "fill": "#fcff00",
+    "region": "Northeast Jiangxi Mountains"
+  },
+  "CHN.16.8.7_1": {
+    "fill": "#fcff00",
+    "region": "Northeast Jiangxi Mountains"
+  },
+  "CHN.16.8.8_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.8.9_1": {
+    "fill": "#fcff00",
+    "region": "Northeast Jiangxi Mountains"
+  },
+  "CHN.16.9.1_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.16.9.2_1": {
+    "fill": "#a5958c",
+    "region": "Jiangxi"
+  },
+  "CHN.17.2.1_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.2.2_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.2.3_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.2.4_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.2.5_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.2.6_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.4.1_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.4.2_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.4.3_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.4.4_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.4.5_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.4.6_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.5.1_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.5.2_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.5.3_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.8.1_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.8.2_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.8.3_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.8.4_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.8.5_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.8.6_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.17.8.7_1": {
+    "fill": "#ffb4cc",
+    "region": "Jilin Dongbei"
+  },
+  "CHN.18.13.1_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.13.2_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.13.3_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.13.4_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.13.5_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.13.6_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.13.7_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.13.8_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.13.9_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.3.1_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.3.2_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.3.3_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.3.4_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.3.5_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.3.6_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.8.1_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.8.2_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.8.3_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.18.8.4_1": {
+    "fill": "#a5958c",
+    "region": "Liaoning Dongbei"
+  },
+  "CHN.19.10.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.19.12.1_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.12.2_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.12.3_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.12.4_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.12.5_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.5.1_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.19.5.2_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.19.5.3_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.19.5.4_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.19.5.5_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.19.5.6_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.19.5.7_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.19.6.10_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.11_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.12_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.13_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.1_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.2_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.3_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.4_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.5_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.6_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.7_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.8_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.6.9_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.7.1_1": {
+    "fill": "#ffdd5c",
+    "region": "Nei Mongolia West"
+  },
+  "CHN.19.7.2_1": {
+    "fill": "#ffdd5c",
+    "region": "Nei Mongolia West"
+  },
+  "CHN.19.7.3_1": {
+    "fill": "#ffdd5c",
+    "region": "Nei Mongolia West"
+  },
+  "CHN.19.7.4_1": {
+    "fill": "#ffdd5c",
+    "region": "Nei Mongolia West"
+  },
+  "CHN.19.7.5_1": {
+    "fill": "#ffdd5c",
+    "region": "Nei Mongolia West"
+  },
+  "CHN.19.7.6_1": {
+    "fill": "#ffdd5c",
+    "region": "Nei Mongolia West"
+  },
+  "CHN.19.7.7_1": {
+    "fill": "#ffdd5c",
+    "region": "Nei Mongolia West"
+  },
+  "CHN.19.7.8_1": {
+    "fill": "#ffdd5c",
+    "region": "Nei Mongolia West"
+  },
+  "CHN.19.8.1_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.8.2_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.8.3_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.8.4_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.8.5_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.8.6_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.8.7_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.19.8.8_1": {
+    "fill": "#007b0f",
+    "region": "Nei Mongolia East"
+  },
+  "CHN.2.1.10_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.11_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.1_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.2_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.3_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.4_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.5_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.6_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.7_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.8_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.2.1.9_1": {
+    "fill": "#ff002a",
+    "region": "Beijing"
+  },
+  "CHN.20.2.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.2.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.2.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.2.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.2.5_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.3.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.3.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.3.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.3.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.4.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.4.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.4.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.4.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.5.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.5.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.20.5.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.1.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.1.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.1.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.1.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.1.5_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.1.6_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.2.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.2.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.2.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.2.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.2.5_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.2.6_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.2.7_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.3.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.3.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.3.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.3.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.4.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.4.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.4.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.4.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.4.5_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.4.6_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.5.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.5.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.5.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.5.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.5.5_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.6.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.6.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.6.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.6.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.6.5_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.6.6_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.7.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.7.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.7.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.7.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.21.8.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.8.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.8.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.21.8.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.22.1.10_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.1.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.1.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.1.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.1.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.1.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.1.6_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.1.7_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.1.8_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.1.9_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.10.10_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.11_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.12_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.1_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.2_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.3_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.4_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.5_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.6_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.7_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.8_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.10.9_1": {
+    "fill": "#ba8e1b",
+    "region": "Shaanxi North"
+  },
+  "CHN.22.2.10_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.11_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.1_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.2_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.3_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.4_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.5_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.6_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.7_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.8_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.2.9_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.3.10_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.11_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.6_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.7_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.8_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.3.9_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.4.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.4.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.4.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.4.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.4.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.4.6_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.4.7_1": {
+    "fill": "#f3ff8b",
+    "region": "Shaanxi South"
+  },
+  "CHN.22.5.1_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.5.2_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.10_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.11_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.1_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.2_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.3_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.4_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.5_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.6_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.7_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.8_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.6.9_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.7.1_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.7.2_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.7.3_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.7.4_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.7.5_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.7.6_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.7.7_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.10_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.11_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.12_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.13_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.1_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.2_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.3_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.4_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.5_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.6_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.7_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.8_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.22.8.9_1": {
+    "fill": "#50ffbd",
+    "region": "Shaanxi Central"
+  },
+  "CHN.23.1.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.1.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.1.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.1.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.1.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.1.6_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.1.7_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.11.1_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.11.2_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.11.3_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.12.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.12.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.12.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.12.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.12.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.10_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.6_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.7_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.8_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.13.9_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.15.10_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.11_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.1_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.2_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.3_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.4_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.5_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.6_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.7_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.8_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.15.9_1": {
+    "fill": "#a4ff57",
+    "region": "Jiaodong"
+  },
+  "CHN.23.16.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.16.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.16.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.17.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.17.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.17.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.17.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.17.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.10_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.11_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.6_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.7_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.8_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.2.9_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.3.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.3.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.3.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.3.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.3.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.4.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.4.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.4.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.4.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.4.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.4.6_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.4.7_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.4.8_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.4.9_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.5.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.5.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.5.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.5.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.5.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.5.6_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.10_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.6_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.7_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.8_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.6.9_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.7.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.8.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.8.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.8.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.8.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.8.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.8.6_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.8.7_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.8.8_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.10_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.1_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.2_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.3_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.4_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.5_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.6_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.7_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.8_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.23.9.9_1": {
+    "fill": "#ffe610",
+    "region": "Lu"
+  },
+  "CHN.25.2.1_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.2.2_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.2.3_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.2.4_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.2.5_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.2.6_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.2.7_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.2.8_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.10_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.11_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.12_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.13_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.14_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.15_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.16_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.17_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.1_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.2_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.3_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.4_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.5_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.6_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.7_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.8_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.25.5.9_1": {
+    "fill": "#ccff8e",
+    "region": "Shanxi"
+  },
+  "CHN.26.1.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.1.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.1.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.1.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.10.1_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.10.2_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.10.3_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.10.4_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.10.5_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.10.6_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.12.1_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.12.2_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.12.3_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.12.4_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.12.5_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.12.6_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.12.7_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.12.8_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.13.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.13.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.13.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.13.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.13.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.13.6_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.13.7_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.13.8_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.14.1_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.14.2_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.15.1_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.15.2_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.15.3_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.16.10_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.11_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.12_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.13_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.14_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.5_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.6_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.7_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.8_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.16.9_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.18.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.18.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.18.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.2.10_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.11_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.12_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.13_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.1_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.2_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.3_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.4_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.5_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.6_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.7_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.8_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.2.9_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.21.1_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.21.2_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.21.3_1": {
+    "fill": "#2e07ff",
+    "region": "Salt Gang"
+  },
+  "CHN.26.3.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.3.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.3.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.3.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.3.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.3.6_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.3.7_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.5.10_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.11_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.12_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.13_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.14_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.15_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.16_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.17_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.18_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.5_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.6_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.7_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.8_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.5.9_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.26.6.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.6.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.6.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.6.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.6.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.26.7.1_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.7.2_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.7.3_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.7.4_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.7.5_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.7.6_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.7.7_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.10_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.1_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.2_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.3_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.4_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.5_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.6_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.7_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.8_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.8.9_1": {
+    "fill": "#c25052",
+    "region": "Upper River Gang"
+  },
+  "CHN.26.9.10_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.26.9.14_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.26.9.16_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.26.9.17_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.26.9.1_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.26.9.3_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.26.9.6_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.26.9.7_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.26.9.8_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.26.9.9_1": {
+    "fill": "#ff7800",
+    "region": "Yi Sichuan"
+  },
+  "CHN.27.1.10_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.11_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.12_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.1_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.2_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.3_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.4_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.5_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.6_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.7_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.8_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.27.1.9_1": {
+    "fill": "#40fefb",
+    "region": "Tianjin"
+  },
+  "CHN.28.6.1_1": {
+    "fill": "#f395d2",
+    "region": "Xinjiang"
+  },
+  "CHN.28.6.2_1": {
+    "fill": "#f395d2",
+    "region": "Xinjiang"
+  },
+  "CHN.28.6.3_1": {
+    "fill": "#f395d2",
+    "region": "Xinjiang"
+  },
+  "CHN.29.1.10_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.11_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.5_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.6_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.7_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.8_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.1.9_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.10_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.5_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.6_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.7_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.8_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.3.9_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.4.1_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.4.2_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.4.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.4.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.4.5_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.4.6_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.29.4.7_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.3.1.10_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.11_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.12_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.13_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.14_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.15_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.16_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.17_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.18_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.19_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.1_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.20_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.21_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.22_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.23_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.24_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.25_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.26_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.27_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.28_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.29_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.2_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.30_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.31_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.32_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.3_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.4_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.5_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.6_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.7_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.8_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.3.1.9_1": {
+    "fill": "#f3ff8b",
+    "region": "Sichuan Lower River Gang"
+  },
+  "CHN.30.1.1_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.1.2_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.1.3_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.1.4_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.1.5_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.10.1_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.10.3_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.10.4_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.11.10_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.11.1_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.11.2_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.11.3_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.11.6_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.11.7_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.11.8_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.12.1_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.12.2_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.12.3_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.12.4_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.12.5_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.12.6_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.12.7_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.12.8_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.13.1_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.30.13.2_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.30.13.3_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.30.13.4_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.30.13.5_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.30.13.6_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.30.13.7_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.30.13.8_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.30.14.1_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.14.2_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.14.3_1": {
+    "fill": "#ff519b",
+    "region": "Pu’er-Sipsongpanna"
+  },
+  "CHN.30.15.1_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.15.2_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.15.3_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.15.4_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.15.5_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.15.6_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.15.7_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.15.8_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.15.9_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.10_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.11_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.1_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.2_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.3_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.4_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.5_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.6_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.7_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.8_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.16.9_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.2.10_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.2.1_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.2.2_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.2.3_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.2.4_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.2.5_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.2.6_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.2.7_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.2.8_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.2.9_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.10_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.11_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.12_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.1_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.2_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.3_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.4_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.5_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.6_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.7_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.8_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.3.9_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.5.2_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.5.3_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.6.10_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.11_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.12_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.13_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.1_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.2_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.4_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.5_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.6_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.8_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.6.9_1": {
+    "fill": "#4db3d5",
+    "region": "Honghe"
+  },
+  "CHN.30.7.10_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.11_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.12_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.1_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.2_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.3_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.4_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.5_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.6_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.7_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.8_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.7.9_1": {
+    "fill": "#b59af1",
+    "region": "Han Yunnan"
+  },
+  "CHN.30.8.1_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.8.2_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.8.3_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.8.4_1": {
+    "fill": "#a5958c",
+    "region": "Dali"
+  },
+  "CHN.30.9.1_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.9.2_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.9.3_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.9.4_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.9.5_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.9.6_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.9.7_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.30.9.8_1": {
+    "fill": "#ffd178",
+    "region": "West Yunnan"
+  },
+  "CHN.31.1.1_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.1.2_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.1.3_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.1.4_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.1.5_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.1.6_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.1.7_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.1.8_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.11.1_1": {
+    "fill": "#ae21ff",
+    "region": "Ningbo"
+  },
+  "CHN.31.11.2_1": {
+    "fill": "#ae21ff",
+    "region": "Ningbo"
+  },
+  "CHN.31.11.3_1": {
+    "fill": "#ae21ff",
+    "region": "Ningbo"
+  },
+  "CHN.31.2.1_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.2.2_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.2.3_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.2.4_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.3.1_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.3.2_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.3.3_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.3.4_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.3.5_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.3.6_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.3.7_1": {
+    "fill": "#ff7f21",
+    "region": "Hangzhou"
+  },
+  "CHN.31.4.1_1": {
+    "fill": "#06f14f",
+    "region": "Jinhua"
+  },
+  "CHN.31.4.2_1": {
+    "fill": "#06f14f",
+    "region": "Jinhua"
+  },
+  "CHN.31.4.3_1": {
+    "fill": "#06f14f",
+    "region": "Jinhua"
+  },
+  "CHN.31.4.4_1": {
+    "fill": "#06f14f",
+    "region": "Jinhua"
+  },
+  "CHN.31.4.5_1": {
+    "fill": "#06f14f",
+    "region": "Jinhua"
+  },
+  "CHN.31.4.6_1": {
+    "fill": "#06f14f",
+    "region": "Jinhua"
+  },
+  "CHN.31.4.7_1": {
+    "fill": "#06f14f",
+    "region": "Jinhua"
+  },
+  "CHN.31.4.8_1": {
+    "fill": "#06f14f",
+    "region": "Jinhua"
+  },
+  "CHN.31.4.9_1": {
+    "fill": "#06f14f",
+    "region": "Jinhua"
+  },
+  "CHN.31.5.1_1": {
+    "fill": "#d8d8d8",
+    "region": "She"
+  },
+  "CHN.31.5.2_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.5.3_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.5.4_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.5.5_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.5.6_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.5.7_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.5.8_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.5.9_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.9.1_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.9.2_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.9.3_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.9.4_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.9.5_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.9.6_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.31.9.7_1": {
+    "fill": "#ff7f21",
+    "region": "Ou"
+  },
+  "CHN.4.2.1_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.4.2.2_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.4.2.3_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.4.2.4_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.4.2.5_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.4.2.6_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.4.2.7_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.4.3.10_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.4.3.1_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.4.3.2_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.4.3.3_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.4.3.4_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.4.3.5_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.4.3.6_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.4.3.7_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.4.3.8_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.4.3.9_1": {
+    "fill": "#06f14f",
+    "region": "West Fujian Mountains"
+  },
+  "CHN.5.1.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.1.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.1.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.1.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.1.5_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.10.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.10.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.10.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.10.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.10.5_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.10.6_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.10.7_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.11.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.11.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.11.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.11.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.11.5_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.11.6_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.11.7_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.11.8_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.13.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.13.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.13.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.13.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.14.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.14.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.14.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.14.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.14.5_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.14.6_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.3.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.3.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.3.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.3.4_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "CHN.5.3.5_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.3.6_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.3.7_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.4.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.5.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.5.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.6.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.6.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.6.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.6.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.6.5_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.6.6_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.6.7_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.7.1_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.7.2_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.7.3_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.5.7.4_1": {
+    "fill": "#eacdff",
+    "region": "Northwest Han-Hui"
+  },
+  "CHN.6.11.1_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.11.2_1": {
+    "fill": "#d8d8d8",
+    "region": "Lianzhou Yao"
+  },
+  "CHN.6.11.3_1": {
+    "fill": "#d8d8d8",
+    "region": "Lianzhou Yao"
+  },
+  "CHN.6.11.4_1": {
+    "fill": "#d8d8d8",
+    "region": "Lianzhou Yao"
+  },
+  "CHN.6.11.5_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.11.6_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.11.7_1": {
+    "fill": "#d8d8d8",
+    "region": "Lianzhou Yao"
+  },
+  "CHN.6.11.8_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.13.1_1": {
+    "fill": "#7f0000",
+    "region": "Teochew"
+  },
+  "CHN.6.13.2_1": {
+    "fill": "#7f0000",
+    "region": "Teochew"
+  },
+  "CHN.6.13.3_1": {
+    "fill": "#7f0000",
+    "region": "Teochew"
+  },
+  "CHN.6.13.4_1": {
+    "fill": "#7f0000",
+    "region": "Teochew"
+  },
+  "CHN.6.14.1_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.14.2_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.14.3_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.14.4_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.14.5_1": {
+    "fill": "#d8d8d8",
+    "region": "Lianzhou Yao"
+  },
+  "CHN.6.14.6_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.14.7_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.14.8_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.14.9_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.16.1_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.16.2_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.16.3_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.16.4_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.17.1_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.17.2_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.17.3_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.17.4_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.17.5_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.18.1_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.18.2_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.18.3_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.18.4_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.18.5_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.18.6_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.19.1_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.19.2_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.19.3_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.19.4_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.19.5_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.19.6_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.19.7_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.3.1_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.3.2_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.3.3_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.3.4_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.3.5_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.4.1_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.5.1_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.6.5.2_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.6.5.3_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.6.5.4_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.6.5.5_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.6.5.6_1": {
+    "fill": "#ffdd5c",
+    "region": "Hakka"
+  },
+  "CHN.6.6.1_1": {
+    "fill": "#7f0000",
+    "region": "Dong River Hakka"
+  },
+  "CHN.6.6.2_1": {
+    "fill": "#7f0000",
+    "region": "Dong River Hakka"
+  },
+  "CHN.6.6.3_1": {
+    "fill": "#7f0000",
+    "region": "Dong River Hakka"
+  },
+  "CHN.6.6.4_1": {
+    "fill": "#7f0000",
+    "region": "Dong River Hakka"
+  },
+  "CHN.6.6.5_1": {
+    "fill": "#7f0000",
+    "region": "Dong River Hakka"
+  },
+  "CHN.6.7.1_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.7.2_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.7.3_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.7.4_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.7.5_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.7.6_1": {
+    "fill": "#4461dc",
+    "region": "Cantonese"
+  },
+  "CHN.6.9.1_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.9.2_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.9.3_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.9.4_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.6.9.5_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.7.1.10_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.11_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.12_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.1_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.2_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.3_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.4_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.5_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.6_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.7_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.8_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.1.9_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.10.1_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.10.2_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.10.3_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.10.4_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.10.5_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.10.6_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.10.7_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.11.1_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.11.2_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.11.3_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.11.4_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.11.5_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.11.6_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.11.7_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.11.8_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.12.1_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.7.12.2_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.7.12.3_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.7.13.1_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.13.2_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.13.3_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.13.4_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.13.5_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.14.1_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.14.2_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.14.3_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.14.4_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.14.5_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.3.1_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.3.2_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.3.3_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.3.4_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.3.5_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.3.6_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.3.7_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.4.1_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.4.2_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.5.1_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.5.2_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.5.3_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.6.10_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.11_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.12_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.13_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.1_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.2_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.3_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.4_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.5_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.6_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.7_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.8_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.6.9_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.7.10_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.11_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.1_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.2_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.3_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.4_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.5_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.6_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.7_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.8_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.7.9_1": {
+    "fill": "#ea3045",
+    "region": "Zhuang Area"
+  },
+  "CHN.7.8.1_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.8.2_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.8.3_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.8.4_1": {
+    "fill": "#ffa850",
+    "region": "Guibei"
+  },
+  "CHN.7.9.1_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.9.2_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.9.3_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.9.4_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.9.5_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.7.9.6_1": {
+    "fill": "#bd52bc",
+    "region": "Xi River"
+  },
+  "CHN.8.1.1_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.1.2_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.1.3_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.1.4_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.1.5_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.1.6_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.2.1_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.2.2_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.2.3_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.2.4_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.2.5_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.2.6_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.2.7_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.2.8_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.3.2_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.4.1_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.4.3_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.4.4_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.5.10_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.11_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.12_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.13_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.14_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.15_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.16_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.1_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.2_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.3_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.4_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.5_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.6_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.7_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.8_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.5.9_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.10_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.11_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.12_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.1_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.2_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.3_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.4_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.5_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.6_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.7_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.8_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.6.9_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.7.1_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.7.2_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.7.3_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.7.4_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.7.5_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.7.6_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.7.7_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.7.8_1": {
+    "fill": "#23b526",
+    "region": "South Guizhou"
+  },
+  "CHN.8.9.10_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.11_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.12_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.13_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.1_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.2_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.3_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.4_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.5_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.6_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.7_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.8_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.8.9.9_1": {
+    "fill": "#7dedde",
+    "region": "Han Guizhou"
+  },
+  "CHN.9.1.1_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.1.2_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.2.10_1": {
+    "fill": "#fff37b",
+    "region": "Hlai"
+  },
+  "CHN.9.2.11_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.2.12_1": {
+    "fill": "#fff37b",
+    "region": "Hlai"
+  },
+  "CHN.9.2.13_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.2.14_1": {
+    "fill": "#ff5bf5",
+    "region": "Straits Chinese"
+  },
+  "CHN.9.2.15_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.2.1_1": {
+    "fill": "#fff37b",
+    "region": "Hlai"
+  },
+  "CHN.9.2.2_1": {
+    "fill": "#fff37b",
+    "region": "Hlai"
+  },
+  "CHN.9.2.3_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.2.4_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.2.5_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.2.6_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.2.7_1": {
+    "fill": "#fff37b",
+    "region": "Hlai"
+  },
+  "CHN.9.2.8_1": {
+    "fill": "#fff37b",
+    "region": "Hlai"
+  },
+  "CHN.9.2.9_1": {
+    "fill": "#78d2ff",
+    "region": "Coastal (Qin-Lian-Lei-Qiong)"
+  },
+  "CHN.9.3.1_1": {
+    "fill": "#fff37b",
+    "region": "Hlai"
+  },
+  "HKG.10_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.11_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.12_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.13_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.14_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.15_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.16_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.17_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.18_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.1_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.2_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.3_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.4_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.5_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.6_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.7_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.8_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "HKG.9_1": {
+    "fill": "#00c884",
+    "region": "Hong Kong"
+  },
+  "Z02.28.9.8_1": {
+    "fill": "#f395d2",
+    "region": "Xinjiang"
+  },
+  "Z03.28.10.1_1": {
+    "fill": "#f395d2",
+    "region": "Xinjiang"
+  },
+  "Z03.29.4.6_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  },
+  "Z08.29.4.3_1": {
+    "fill": "#78d2ff",
+    "region": "The Tibetan Plateau"
+  }
+}

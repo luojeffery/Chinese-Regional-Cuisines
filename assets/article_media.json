@@ -1,0 +1,1839 @@
+{
+  "Cantonese": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/cantonese/img1.jpg",
+        "caption": "Wonton Mee (云吞面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ab639257-9baf-4943-b7a0-d04540147fd7_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/cantonese/img2.jpg",
+        "caption": "Dim Sum (早茶).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c42b971c-ec64-43e8-b2e3-1eb8b1ec8e63_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/cantonese/img3.jpg",
+        "caption": "Cheong Fun (肠粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/df481a83-fd9e-4727-b9e9-2c00f4d24bad_2786x3715.jpeg"
+      },
+      {
+        "src": "assets/images/cantonese/img4.jpg",
+        "caption": "Claypot Rice (煲仔饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a78c3b61-57ee-4e49-9ef1-188fac337014_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/cantonese/img5.jpg",
+        "caption": "Char Siu Rice Bowl (叉烧饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/121b641c-0d62-4395-bf01-3d7aa0b81541_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/cantonese/img6.jpg",
+        "caption": "Double Boiled Soups (炖品).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/bbf92133-9b16-41cd-908d-b05a1a2ac7d9_3024x4032.jpeg"
+      }
+    ]
+  },
+  "Teochew": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/teochew/img1.jpg",
+        "caption": "Teochew Lushui (潮州卤水).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1fdc72be-5027-416d-90d5-74e98d6dab36_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/teochew/img2.jpg",
+        "caption": "Mue (糜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/7b0f2d7e-3040-4423-b067-5d4a86b16840_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/teochew/img3.jpg",
+        "caption": "Chinese Black Olive with preserved vegetable (橄榄菜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/df6339aa-e77b-4dca-bbad-cf3e85d90f80_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/teochew/img4.jpg",
+        "caption": "Oyster pancake (蚝烙).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/254f120b-fe32-4d38-bfd0-67a37b6253e5_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/teochew/img5.jpg",
+        "caption": "Seafood congee restaurants.",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/4bed67b0-0d8a-4c89-8cf8-7277f000e9bb_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/teochew/img6.png",
+        "caption": "Guorou (裹肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/97b1634c-6ed3-4f21-a3d3-6c4025b9b8b1_3090x1678.png"
+      }
+    ]
+  },
+  "Hakka": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/hakka/img1.jpg",
+        "caption": "Stuffed Tofu (in soup) (酿豆腐)",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/61ee8571-62df-4b08-8798-90bbc9a46571_1440x1794.jpeg"
+      },
+      {
+        "src": "assets/images/hakka/img2.jpg",
+        "caption": "Mixed ‘Yan’ Hakka Noodles (腌面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2207cfd6-575f-4b9c-a909-db2f34c058de_2854x3805.jpeg"
+      },
+      {
+        "src": "assets/images/hakka/img3.jpg",
+        "caption": "Mixed ‘Yan’ Beef (腌牛肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/50c344fc-6202-45dc-af75-fe5af1647601_1440x1800.jpeg"
+      },
+      {
+        "src": "assets/images/hakka/img4.jpg",
+        "caption": "Salt-Baked Chicken (盐焗鸡).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/8ad35b67-5cff-4ed6-ab62-dec10c320a72_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/hakka/img5.jpg",
+        "caption": "Taro balls and Daikon balls (芋头丸/萝卜丸).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/0c989880-2c6e-468d-8ac4-93043fc9361a_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/hakka/img6.jpg",
+        "caption": "Faban, rice cupcake (发粄).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/356ab769-65a4-4465-b016-6a41f7c26c9a_1440x1800.jpeg"
+      }
+    ]
+  },
+  "Dong River Hakka": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/dong-river-hakka/img1.jpg",
+        "caption": "Dongjiang-style Stuffed Tofu (东江酿豆腐).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/4fcc01ab-c934-469c-b05e-dbd15315c808_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/dong-river-hakka/img2.jpg",
+        "caption": "Pork Belly with Preserved Vegetable, Meicai Kourou (梅菜扣肉)",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/22c08e95-2709-4fc1-9666-998542aa464b_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/dong-river-hakka/img3.jpg",
+        "caption": "Three Cup Duck (三杯鸭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/17ddfc13-c9ec-475d-a8f9-2eeceb32cb65_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Lianzhou Yao": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/lianzhou-yao/img1.jpg",
+        "caption": "Beef Pancake (牛肉糍)",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/159a7cd3-a707-40ac-a462-3a4f244ecc27_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/lianzhou-yao/img2.jpg",
+        "caption": "Smoked jerky (牛肉干).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/21dd7b91-abf6-4c5e-a254-95dfa08ddc7f_1080x1620.jpeg"
+      },
+      {
+        "src": "assets/images/lianzhou-yao/img3.jpg",
+        "caption": "Chili beef noodle soup (星子牛肉面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2b43e032-d124-4273-886b-1f571cfab8b1_1080x720.jpeg"
+      }
+    ]
+  },
+  "Coastal (Qin-Lian-Lei-Qiong)": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/coastal-qin-lian-lei-qiong/img1.jpg",
+        "caption": "Duck rice (鸭仔饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2b1dfa74-950a-4d73-9347-3227b73ed68c_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/coastal-qin-lian-lei-qiong/img2.jpg",
+        "caption": "Wet Spicy Beef (湿辣牛肉)",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/4c5e1300-9416-4660-b507-d1e1d3a39de7_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/coastal-qin-lian-lei-qiong/img3.jpg",
+        "caption": "Seafood Rice Noodles (海鲜捞粉)",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/5fa41ea7-b7d3-43e5-9e06-a13bd40af0b9_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/coastal-qin-lian-lei-qiong/img4.jpg",
+        "caption": "Chicken rice (鸡饭)",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/72a86a62-269e-45e8-a07e-8b53e6a7721c_1440x1800.jpeg"
+      },
+      {
+        "src": "assets/images/coastal-qin-lian-lei-qiong/img5.jpg",
+        "caption": "Beef & Wild Betel Rice Cake (机粽饼)",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/856869ae-8d09-4f5e-9584-81dbc91510d6_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/coastal-qin-lian-lei-qiong/img6.jpg",
+        "caption": "Layered rice cake (簸箕炊/水籺)",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/69bc0cd7-e07c-48ec-a595-4372adec2610_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Hlai": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/hlai/img1.jpg",
+        "caption": "Leaf Banquet (长桌宴).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2280c8f7-b49c-4981-b094-5f2528a7adb8_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hlai/img2.jpg",
+        "caption": "Stir fried banana blossoms (炒芭蕉花).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/58cc05f2-5b18-4edc-8cdc-f59a1288ed2b_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hlai/img3.jpg",
+        "caption": "Fermented fish (鱼茶).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/93c88d76-ca55-4992-8d7a-ada223994793_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Yong-Yu River": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/yong-yu-river/img1.jpg",
+        "caption": "Ol Buddy Noodles (老友粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/5aa17ff7-1621-492f-8856-ef59db3ca1d7_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/yong-yu-river/img2.jpg",
+        "caption": "Lemon Duck (柠檬鸭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/3cbe8f9e-c01e-4c89-ad96-a6d8c3876410_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/yong-yu-river/img3.jpg",
+        "caption": "Paper Wrapped Chicken (纸包鸡).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/90f21ab4-7b7c-44de-8a9c-08d4e70d0c33_4096x3072.jpeg"
+      },
+      {
+        "src": "assets/images/yong-yu-river/img4.jpg",
+        "caption": "Breakfast Rice Noodle Soup with Guangxi-style Char Siu (叉烧粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c50565b6-1320-4a68-86bf-6e0f4c9a77a1_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/yong-yu-river/img5.jpg",
+        "caption": "Guangxi-style Cheongfun (广西肠粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/4f9bdc78-7b04-43f7-a6eb-75a172d75115_1080x1213.jpeg"
+      },
+      {
+        "src": "assets/images/yong-yu-river/img6.jpg",
+        "caption": "Nanning-style Zongzi (粽).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/86a396c0-6f71-4040-8800-52b929612c4c_3024x4032.jpeg"
+      }
+    ]
+  },
+  "Guibei": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/guibei/img1.jpg",
+        "caption": "Luosifen, Snail Rice Noodle Soup (螺蛳粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ade86796-53a8-4e34-8c63-8f0065fe84f5_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/guibei/img2.jpg",
+        "caption": "Guilin Rice Noodles (桂林米粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a002d261-d91d-4c8a-987a-4970482c907b_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/guibei/img3.jpg",
+        "caption": "Horse Meat Rice Noodles (马肉米粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/06bcad22-8d97-47a1-ab5a-c46dcdab9ed3_1080x1920.jpeg"
+      },
+      {
+        "src": "assets/images/guibei/img4.jpg",
+        "caption": "Beer Fish (啤酒鱼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/60b04fa9-cbd4-4155-8d3c-401b533ce2f8_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/guibei/img5.jpg",
+        "caption": "‘Eight Treasure’ Beef (牛八宝).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/833b97a1-6256-42f8-9cce-a41d17346bd4_1080x1439.jpeg"
+      },
+      {
+        "src": "assets/images/guibei/img6.jpg",
+        "caption": "Sour Tripe (牛肠酸).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1aa81826-e26e-47e6-88f3-49578f215c18_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Zhuang Area": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/zhuang-area/img1.jpg",
+        "caption": "Five Color Rice (五色糯米饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/213a40d3-331a-4583-8d65-10b34474bcaa_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/zhuang-area/img2.jpg",
+        "caption": "Longlin Chicken Rice Noodle Soup (隆林鸡粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c5d63f73-c3a1-4596-8409-d0644a974c8d_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/zhuang-area/img3.png",
+        "caption": "Yaba, Wrapped Duck (鸭把). Yaba",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/931a06e8-826b-46a4-8d93-ff56f9a4f52b_2116x1632.png"
+      }
+    ]
+  },
+  "Han Guizhou": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/han-guizhou/img1.jpg",
+        "caption": "Anshun Flaky Baozi (安顺破酥包).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/3519e67e-60b3-4be7-b515-66d640b9605b_1280x1706.jpeg"
+      },
+      {
+        "src": "assets/images/han-guizhou/img2.jpg",
+        "caption": "Goat Rice Noodle Soup (贵州羊肉粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/4c606f18-8430-4eed-b932-d8e65c9ac431_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/han-guizhou/img3.jpg",
+        "caption": "Douchi Hotpot (豆豉火锅).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b0377fdf-1914-4030-a7e4-9eb78a878395_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/han-guizhou/img4.jpg",
+        "caption": "Deep Fried Tangyuan with Fermented Mustard Greens (酸菜炒汤圆).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/caff8c36-dbf3-4b25-b7aa-781f3bb6c8f7_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/han-guizhou/img5.jpg",
+        "caption": "Si Wa Wa (丝娃娃).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/0dfe273e-7a60-400e-8198-02ff72f12c09_2528x3371.jpeg"
+      },
+      {
+        "src": "assets/images/han-guizhou/img6.jpg",
+        "caption": "Breakfast Sticky Rice Bowl (贵阳糯米饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/fff25348-205a-401e-92d0-4a97ce41a928_3024x4032.jpeg"
+      }
+    ]
+  },
+  "South Guizhou": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/south-guizhou/img1.jpg",
+        "caption": "Fermented Tomato Catfish Soup (酸汤鱼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/e9bbc0ea-e758-453d-af51-d57f048f3588_1280x960.jpeg"
+      },
+      {
+        "src": "assets/images/south-guizhou/img2.jpg",
+        "caption": "Fermented Shrimp Paste Beef Pot (虾酸牛肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/bbd29ba5-ac98-4a02-a79f-90d6eedc9ac6_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/south-guizhou/img3.jpg",
+        "caption": "Niubie (牛瘪).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/108bfaff-fb56-4b79-8829-4a241aa8b87b_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Han Yunnan": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/han-yunnan/img1.jpg",
+        "caption": "Grandmother’s Mashed Potatoes (老奶洋芋).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/e1b45d83-50c5-4ad3-b52e-39252dfd1cea_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/han-yunnan/img2.png",
+        "caption": "Shao Er Kuai (烧饵块).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/3cfbad4c-28f2-4e83-8886-60c9793d392a_1016x1442.png"
+      },
+      {
+        "src": "assets/images/han-yunnan/img3.jpg",
+        "caption": "‘Fresh’ Fried Chicken (生炸鸡).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/73c8baea-d4af-4003-b593-a89b37a5f1e0_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/han-yunnan/img4.jpg",
+        "caption": "Wandoufen (豌豆粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/390e9110-e8d5-4132-817b-ebee7a761455_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/han-yunnan/img5.jpg",
+        "caption": "Little Pot Rice Noodles (小锅米线).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/7046605c-ccb9-46f1-a969-a6faa15b868f_1080x1080.jpeg"
+      },
+      {
+        "src": "assets/images/han-yunnan/img6.jpg",
+        "caption": "Crossing the Bridge Rice Noodles (过桥米线).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/fc4fb82c-2b63-40d6-8829-351e8e840723_1080x1440.jpeg"
+      }
+    ]
+  },
+  "West Yunnan": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/west-yunnan/img1.jpg",
+        "caption": "Wa People Shouzhuafan (佤族手抓饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d7d4af62-b320-486d-a9dc-9299cf62d6b0_400x300.jpeg"
+      },
+      {
+        "src": "assets/images/west-yunnan/img2.jpg",
+        "caption": "Yunnan-style Lahpet Salad (茶叶豆).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/f4945037-9902-424b-8ac0-c96a5ebda6bf_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/west-yunnan/img3.jpg",
+        "caption": "Achang People’s ‘Crossing the Hand’ Rice Noodle (阿昌族过手米线).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/522ed79a-f22d-447a-b51a-5ba070751663_1280x854.jpeg"
+      },
+      {
+        "src": "assets/images/west-yunnan/img4.jpg",
+        "caption": "Xidoufen porridge (稀豆粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/49083be5-cdfe-465a-9162-4c8bd3996a8e_4032x3024.jpeg"
+      },
+      {
+        "src": "assets/images/west-yunnan/img5.jpg",
+        "caption": "Fried Banana Blossoms (炒芭蕉花).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d3bbca70-ead0-4951-b1b2-ee7c871987a9_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/west-yunnan/img6.png",
+        "caption": "Sour Vegetable Soup (酸扒菜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/60e937f4-b369-46a3-a88c-b1792665f7fe_1954x1162.png"
+      }
+    ]
+  },
+  "Pu’er-Sipsongpanna": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/pu-er-sipsongpanna/img1.jpg",
+        "caption": "Dai-flavor Salads (傣味凉拌).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/96bfa7c4-7295-4425-ab2e-0ff1afd536dd_5712x4284.jpeg"
+      },
+      {
+        "src": "assets/images/pu-er-sipsongpanna/img2.jpg",
+        "caption": "Baoshao Grilled Meat (包烧肉). ‘Baoshao",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/673d3d4d-4a85-4fb4-b005-cb6fe9d9b14a_500x500.jpeg"
+      },
+      {
+        "src": "assets/images/pu-er-sipsongpanna/img3.jpg",
+        "caption": "Sa (撒).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/906deac5-a4f4-4abb-a5fe-a72f405edea1_2852x2756.jpeg"
+      }
+    ]
+  },
+  "Honghe": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/honghe/img1.jpg",
+        "caption": "Hani People’s Grilled Fish (哈尼烤鱼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/6de4a1de-7b6f-46f5-b9be-fc66a010daaa_525x700.jpeg"
+      },
+      {
+        "src": "assets/images/honghe/img2.jpg",
+        "caption": "Dipping sauce Chicken (蘸水鸡).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/08745fbb-7496-4cd8-b12d-f8011820204d_600x341.jpeg"
+      },
+      {
+        "src": "assets/images/honghe/img3.png",
+        "caption": "Peanut Milk Soup (花生汤).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/10328e23-1ea9-4e79-9b6b-e5838960a91c_3044x1700.png"
+      }
+    ]
+  },
+  "Dali": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/dali/img1.jpg",
+        "caption": "Acid Set Cheeses (乳饼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/63a7dd6f-f5e0-4ba6-aef4-ea9a46c30cd9_4032x3024.jpeg"
+      },
+      {
+        "src": "assets/images/dali/img2.jpg",
+        "caption": "Lentil Liangfen (鸡豆粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/3a8004d7-9d9b-4bfe-8a5f-571b6aa81fe7_640x480.jpeg"
+      },
+      {
+        "src": "assets/images/dali/img3.png",
+        "caption": "Suanmugua fish (酸辣鱼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/efd225c9-81a6-4f60-9a57-2d744a859e9f_1222x769.png"
+      }
+    ]
+  },
+  "The Tibetan Plateau": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/the-tibetan-plateau/img1.jpg",
+        "caption": "Tsampa (རྩམ་པ/糌粑).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a5bc4035-c083-4ffb-8612-7218dca641cf_792x600.jpeg"
+      },
+      {
+        "src": "assets/images/the-tibetan-plateau/img2.jpg",
+        "caption": "Gyuma, Blood Sausage.",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ef054f27-e162-4462-86b9-0818c9f63643_1080x1439.jpeg"
+      },
+      {
+        "src": "assets/images/the-tibetan-plateau/img3.jpg",
+        "caption": "Momo (མོག་མོག/馍馍).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/31448986-2fde-4779-b8cb-af69596e4dd9_700x400.jpeg"
+      },
+      {
+        "src": "assets/images/the-tibetan-plateau/img4.jpg",
+        "caption": "Tibetan Butter Tea (བོད་ཇ/酥油茶).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/8ad0d787-60b8-4be6-9488-46c4c165de0f_1080x1080.jpeg"
+      }
+    ]
+  },
+  "Upper River Gang": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/upper-river-gang/img1.jpg",
+        "caption": "Kungpao Chicken (宫保鸡丁).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/97fd999c-bc20-4597-bdb0-60d1c932d812_1920x1280.jpeg"
+      },
+      {
+        "src": "assets/images/upper-river-gang/img2.jpg",
+        "caption": "Chili Oil Wonton Soup (红汤抄手).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/783b08d3-61f7-47f0-a8ae-82808822d628_1440x1800.jpeg"
+      },
+      {
+        "src": "assets/images/upper-river-gang/img3.jpg",
+        "caption": "Twice Cooked Pork (回锅肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b32deeb1-5421-4c7a-95d8-510daac7ff41_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/upper-river-gang/img4.jpg",
+        "caption": "Mapo Tofu (麻婆豆腐).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ed0e8f72-1f25-4f89-92fd-082408fcbe77_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/upper-river-gang/img5.jpg",
+        "caption": "MSG Noodles (味精素面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/4472ee52-ba2c-402d-8b07-01997e4dee68_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/upper-river-gang/img6.jpg",
+        "caption": "Zhangcha Smoked Duck (樟茶鸭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/362ab939-2d16-4a3e-a5ae-db1f0d6be6a9_960x1280.jpeg"
+      }
+    ]
+  },
+  "Sichuan Lower River Gang": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/sichuan-lower-river-gang/img1.jpg",
+        "caption": "Wanzhou Grilled Fish (万州烤鱼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/8d7bbab9-06ae-4d92-9821-8112ad6cd4c6_1440x1080.jpeg"
+      },
+      {
+        "src": "assets/images/sichuan-lower-river-gang/img2.jpg",
+        "caption": "Maoxuewang (毛血旺).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ff743873-3c9a-449e-91b2-4ceb8b94d12e_2568x1382.jpeg"
+      },
+      {
+        "src": "assets/images/sichuan-lower-river-gang/img3.jpg",
+        "caption": "Chongqing Hotpot (重庆火锅).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/834d8278-7977-43e3-9c50-923ade188c0c_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Salt Gang": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/salt-gang/img1.jpg",
+        "caption": "Tofu rice (豆花饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/4503125a-efb8-4220-97c6-5e55164d79e7_1440x1800.jpeg"
+      },
+      {
+        "src": "assets/images/salt-gang/img2.jpg",
+        "caption": "‘Cold eaten’ Beef (冷吃牛肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/0f970a45-8139-44ed-af9e-0ee6093d9fd0_4032x3024.jpeg"
+      },
+      {
+        "src": "assets/images/salt-gang/img3.jpg",
+        "caption": "Yibin Burning Noodles (宜宾燃面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/543aaabc-c188-4a11-acb5-04ae9fa21a81_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/salt-gang/img4.jpg",
+        "caption": "Shuizhu Beef (水煮牛肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d048d27d-53aa-4fe5-9dbb-cb8555b840c9_5712x3213.jpeg"
+      },
+      {
+        "src": "assets/images/salt-gang/img5.jpg",
+        "caption": "Fresh Chili Rabbit (鲜椒兔).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/38e7296a-5cac-42ec-aa69-a4d6bbcc4dcc_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/salt-gang/img6.jpg",
+        "caption": "Crispy meat soup (酥肉汤). Surou",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/122f09e6-ee5a-4819-9655-e95c7b4ce0fc_1440x1800.jpeg"
+      }
+    ]
+  },
+  "Yi Sichuan": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/yi-sichuan/img1.jpg",
+        "caption": "Tuotuorou (坨坨肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/96a7babc-4621-43d2-91d2-813c62d78224_1080x1339.jpeg"
+      },
+      {
+        "src": "assets/images/yi-sichuan/img2.png",
+        "caption": "Bitter Buckwheat Baba (苦荞粑粑).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/48c11395-04a1-482e-aee0-0f712898105b_1076x1384.png"
+      },
+      {
+        "src": "assets/images/yi-sichuan/img3.jpg",
+        "caption": "Yi-style Barbecue (彝族烧烤).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/59c3c13e-026e-4284-90e7-4449bfc941d1_1080x1080.jpeg"
+      }
+    ]
+  },
+  "Hubei": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/hubei/img1.jpg",
+        "caption": "Hot Dry Noodles (热干面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b3cbc435-06b2-4079-808d-5e24e31afcc3_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hubei/img2.jpg",
+        "caption": "Doupi Pancakes (三鲜豆皮).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/0cf397aa-0c6a-4f70-a6cd-83a4c8cbf1f4_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hubei/img3.jpg",
+        "caption": "Hubei fishcakes (湖北鱼糕).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/f52b65ba-7f19-4dfe-b9ad-f5c7a8c0da25_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hubei/img4.jpg",
+        "caption": "Beef Noodles (襄阳牛肉面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2aa18368-da5b-42d1-99d9-eb204b104726_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hubei/img5.jpg",
+        "caption": "The Three Steams of Mianyang (沔阳三蒸).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/6be2ea10-8a94-4e68-b880-122270fbf0e3_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hubei/img6.jpg",
+        "caption": "Deep Fried Lotus Root (干煸藕丝).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/33a68df3-b572-4d38-9cd7-3cc9d9120c76_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Xiang": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/xiang/img1.jpg",
+        "caption": "Hunan-style Red Braised Pork (红烧肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c6b4a7cc-b396-45c0-b330-0ef22aa1437a_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/xiang/img2.jpg",
+        "caption": "Chili Fried Pork (辣椒炒肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/21fa3438-a1e8-4049-bb82-629dfa5c5712_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/xiang/img3.jpg",
+        "caption": "Stir Fried Smoked Bamboo Shoots & Chinese Bacon (烟笋炒腊肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/435d2e11-10ef-48c7-8671-669777803443_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/xiang/img4.jpg",
+        "caption": "Golden Coin Eggs (金钱蛋).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/3c71eb53-f682-4a94-8338-bb81e679ee0c_1080x1080.jpeg"
+      },
+      {
+        "src": "assets/images/xiang/img5.jpg",
+        "caption": "Tea Tree Oil Fried Chicken (茶油鸡). ‘",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/aa727287-71ad-45f0-bc68-2c5a3b87e457_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/xiang/img6.jpg",
+        "caption": "Fish Rice Noodle Soup (鱼粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1bac5225-271a-4103-bf11-22decf50e0a9_3024x4032.jpeg"
+      }
+    ]
+  },
+  "Hunan West": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/hunan-west/img1.jpg",
+        "caption": "Blood Duck (血鸭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2057a6dd-9c0f-47ce-b2ef-d9461dd6485b_4032x3024.jpeg"
+      },
+      {
+        "src": "assets/images/hunan-west/img2.jpg",
+        "caption": "Pounded Chili Dip (擂辣椒).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1a664437-e671-47b8-b38b-05ef76ef5401_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/hunan-west/img3.jpg",
+        "caption": "Guoba Sandwich (湘西锅巴).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/f9bad32b-6058-430f-874b-1e2053fb54aa_1059x1380.jpeg"
+      },
+      {
+        "src": "assets/images/hunan-west/img4.jpg",
+        "caption": "Mungbean Noodles (锅巴粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/eb3c7cb1-3105-42ce-a7ae-c4354e7a3085_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hunan-west/img5.jpg",
+        "caption": "Fried Bee Larvae (炒蜂蛹).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/7adf25e2-a3e4-49f6-8b3e-576461b3d118_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/hunan-west/img6.jpg",
+        "caption": "Pickled Radish ‘Snack Bar’ (芷江酸萝卜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/dbb49fa3-60c9-487a-8c02-a166a84574a6_3024x4032.jpeg"
+      }
+    ]
+  },
+  "Jiangxi": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/jiangxi/img1.jpg",
+        "caption": "Spicy Chicken Feet (辣鸡爪).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/0527622c-56eb-419d-9846-a9cd4d357332_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jiangxi/img2.jpg",
+        "caption": "Jiangxi Chili Fried Rice Noodles (江西炒米粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/9ffe51b9-7c16-4236-a600-acd793666b23_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jiangxi/img3.jpg",
+        "caption": "Clay Jar Soups (瓦罐煨汤).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/cb9e7620-0da5-479d-b052-82b071f256b7_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Northeast Jiangxi Mountains": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/northeast-jiangxi-mountains/img1.jpg",
+        "caption": "Qigao Pancake (汽糕).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/90031cd0-2b56-4d68-81cf-f6e2aa7ba4bd_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/northeast-jiangxi-mountains/img2.jpg",
+        "caption": "Dengzhanguo (灯盏粿).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/75c0541a-59d5-471b-94a4-76a046141838_1080x1439.jpeg"
+      },
+      {
+        "src": "assets/images/northeast-jiangxi-mountains/img3.jpg",
+        "caption": "Acorn tofu (苦槠豆腐).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/943febdf-503d-4639-84a5-03dc55c666c8_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Minnan": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/minnan/img1.jpg",
+        "caption": "Xianfan (咸饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/81468a39-2bdb-477f-a088-bd7f0392f079_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/minnan/img2.jpg",
+        "caption": "Shacha Noodles (沙茶面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ad4ce12e-8b2c-4474-9907-8fe1f36bffa4_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/minnan/img3.jpg",
+        "caption": "Curry Beef (咖喱牛排).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/7560fdfe-7b60-4d75-bc71-e6b95f6ead4b_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/minnan/img4.jpg",
+        "caption": "Mianxianhu (面线糊).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/dbca3750-c89e-46ee-905b-a91bc35b31a5_1080x1080.jpeg"
+      },
+      {
+        "src": "assets/images/minnan/img5.jpg",
+        "caption": "Minnan Oyster Pancake (海蛎煎).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c5d27f1d-f453-4344-bac3-56b5cf6b1fcb_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/minnan/img6.jpg",
+        "caption": "Thick Beef Soup (牛肉羹).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/87433864-e090-4252-b61c-0afcce456651_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Minbei": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/minbei/img1.jpg",
+        "caption": "Lychee Pork (荔枝肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d01e65af-92f9-4dd6-9b64-bbb69e68f3ca_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/minbei/img2.jpg",
+        "caption": "Guobianhu (锅边糊).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2d459e70-617b-4122-9d0b-72e38b6ad3bb_2715x3566.jpeg"
+      },
+      {
+        "src": "assets/images/minbei/img3.jpg",
+        "caption": "Fuzhou Fishballs (福州鱼丸).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/fea6adbd-02db-41e5-b703-0184bb0b3137_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/minbei/img4.jpg",
+        "caption": "Nanjiangan (南煎肝).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/8d5e017f-f94c-432c-8af9-abb22a08a2e3_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/minbei/img5.jpg",
+        "caption": "‘Zao’ Fried Pork (炸红糟肉). ‘",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/8ec3099f-1ff2-4fd3-b207-968d3cee88ba_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/minbei/img6.png",
+        "caption": "Deep Fried Spring Rolls (炸春卷).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/4b5f8d8f-3b96-4d1b-ab92-0bed42307ebb_2042x1222.png"
+      }
+    ]
+  },
+  "West Fujian Mountains": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/west-fujian-mountains/img1.jpg",
+        "caption": "Shaxian Wontons (沙县云吞).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a531a07a-1773-4a32-a7b6-253fcaea12e4_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/west-fujian-mountains/img2.jpg",
+        "caption": "Peanut Sauce Noodles (飘香拌面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/aa5c1980-10ee-4e73-a872-5a76ebf4e776_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/west-fujian-mountains/img3.jpg",
+        "caption": "Midongpi (米冻皮). Midongpi",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/76780a2f-342e-4fb6-b81a-d81c5a3ea26b_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/west-fujian-mountains/img4.jpg",
+        "caption": "Shaxian Shaomai (沙县烧麦).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a4b37548-c540-44c9-8218-2c90c592730a_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/west-fujian-mountains/img5.jpg",
+        "caption": "Banya (板鸭). Banya",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/db52b676-25d3-4410-8f90-3283a28bd9cf_4032x3024.jpeg"
+      },
+      {
+        "src": "assets/images/west-fujian-mountains/img6.jpg",
+        "caption": "Xiguo (喜粿).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/9fbb1bc9-018c-4b2f-8b29-ac17630fb960_3024x4032.jpeg"
+      }
+    ]
+  },
+  "Hangzhou": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/hangzhou/img1.jpg",
+        "caption": "Candied Ham (蜜汁火方).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/cb4aa559-bfe6-44f4-9489-ba689020ca2a_1280x960.jpeg"
+      },
+      {
+        "src": "assets/images/hangzhou/img2.jpg",
+        "caption": "Pian’er Chuan (片儿川).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/259fe28d-da7f-4f82-b606-6584340af3ea_960x540.jpeg"
+      },
+      {
+        "src": "assets/images/hangzhou/img3.jpg",
+        "caption": "Longjing Shrimp (龙井虾仁).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d00273cf-d52d-4583-8d55-a6d5811d2dbf_1440x1080.jpeg"
+      }
+    ]
+  },
+  "Shaoxing": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/shaoxing/img1.jpg",
+        "caption": "Shaoxing Wine (绍兴酒).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/8572d1e4-c9dd-41ba-b2e4-f0833d833a45_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/shaoxing/img2.jpg",
+        "caption": "Shaoxing Drinking Food (绍兴下酒菜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/edb85fc3-441b-4291-9650-cda9d25921bd_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/shaoxing/img3.jpg",
+        "caption": "Steamed Double Stinky (蒸双臭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1024c90f-c96e-44ba-a1da-3bc396359303_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shaoxing/img4.jpg",
+        "caption": "Fennel Broad Beans (茴香豆).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/dc89948f-8135-473b-a842-60ff727d79e5_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shaoxing/img5.jpg",
+        "caption": "Sauce Preserved Duck (酱鸭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/4d78ff43-fd90-431b-ba35-6adbc955d330_1440x1080.jpeg"
+      },
+      {
+        "src": "assets/images/shaoxing/img6.jpg",
+        "caption": "Vegetarian Goose (素烧鹅).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b13a424e-b283-4564-bdf4-e40036f2d653_3024x4032.jpeg"
+      }
+    ]
+  },
+  "Ningbo": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/ningbo/img1.jpg",
+        "caption": "Ningbo Braised Three Delicacies (宁波老三鲜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/0844bb0c-9139-4fff-aa5b-327c9d2f76fe_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/ningbo/img2.jpg",
+        "caption": "Walnut Ginger Pudding (核桃调蛋).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b0dab0f0-0b94-48d5-a23f-853b1aca37ce_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/ningbo/img3.jpg",
+        "caption": "Ningbo Rice Cakes (苔条年糕).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/bbdcbd29-99eb-4e95-a20b-fca63e05e7a1_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Ou": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/ou/img1.jpg",
+        "caption": "Loaded Sticky Rice (温州糯米饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/9a25a416-fa55-405d-87f7-9562ef59f431_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/ou/img2.jpg",
+        "caption": "Jiashao Fish (家烧杂鱼). Jiashao",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/953e5cd3-2bdd-4301-9a0e-c662d0ea650e_1280x959.jpeg"
+      },
+      {
+        "src": "assets/images/ou/img3.jpg",
+        "caption": "Smashed Shrimp Noodles (敲虾面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/81c0c069-9ed1-4b9b-a25c-6986c8b6a144_1080x1440.jpeg"
+      }
+    ]
+  },
+  "She": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/she/img1.jpg",
+        "caption": "Black Sticky Rice (乌饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/84e40643-912d-4ddd-b492-92476060374f_1440x1080.jpeg"
+      },
+      {
+        "src": "assets/images/she/img2.jpg",
+        "caption": "Edamame Tofu (豆腐娘).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1744e9dc-5dac-4825-859e-1b6798e8d8a9_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/she/img3.jpg",
+        "caption": "Rice Noodle Sheets (景宁粉皮).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/6d146617-a825-4c39-82e0-95aad8994c65_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Jinhua": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/jinhua/img1.jpg",
+        "caption": "Jinhua Ham (金华火腿).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/21109374-55f2-4b56-8733-5cb2d8e0f9d0_1440x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jinhua/img2.jpg",
+        "caption": "Stinky Tofu Sandwich (炸馒头臭豆腐).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/e504e636-6817-41ce-a0bc-c6861bb752ff_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jinhua/img3.jpg",
+        "caption": "Jidanguo (兰溪鸡蛋馃).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/47166fd7-3a6e-40e1-aab2-9d714531351e_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jinhua/img4.jpg",
+        "caption": "Vinegar Chicken (武义醋鸡).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/da60e3d4-11a0-46f3-bffc-39410335af1c_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/jinhua/img5.jpg",
+        "caption": "Jiuniang Tangyuan (酒酿小丸子).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/8211e122-3242-4100-9f26-c022666c1ab0_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/jinhua/img6.png",
+        "caption": "Cold Rice Noodles (冷淘).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/5c9e0e12-a69e-4517-b8fb-00466282248f_3394x1892.png"
+      }
+    ]
+  },
+  "Classical Huaiyang (plus Tucai)": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/classical-huaiyang-plus-tucai/img1.jpg",
+        "caption": "Lion’s Head Meatball (狮子头).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/04667976-1901-4540-822c-401e533f2bec_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/classical-huaiyang-plus-tucai/img2.jpg",
+        "caption": "Yangzhou-style Dim Sum (扬州早茶).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b98c453d-397a-46fa-b44d-b5cfcfc6567b_1440x1440.jpeg"
+      },
+      {
+        "src": "assets/images/classical-huaiyang-plus-tucai/img3.jpg",
+        "caption": "Dazhu Gansi (大煮干丝).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ceb541f3-978d-44bd-a5b7-46bbd8fc746a_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/classical-huaiyang-plus-tucai/img4.jpg",
+        "caption": "Choudayuan (臭大圆).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/dedc9472-1f77-4e13-9a72-e784afa9ab62_1080x1415.jpeg"
+      },
+      {
+        "src": "assets/images/classical-huaiyang-plus-tucai/img5.jpg",
+        "caption": "Braised Old Goose (红烧老鹅).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a23bd0b4-87c9-41a2-83b1-dc1dd4abda0e_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/classical-huaiyang-plus-tucai/img6.jpg",
+        "caption": "Xuecai Pork (雪菜肉丝).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/5fc6d239-d458-4c45-9169-22ed1dd0d882_3024x4032.jpeg"
+      }
+    ]
+  },
+  "Nanjing": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/nanjing/img1.jpg",
+        "caption": "Nanjing roast duck (南京烤鸭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/3e737555-db8e-465c-ad25-6398c1ec875b_1080x1080.jpeg"
+      },
+      {
+        "src": "assets/images/nanjing/img2.jpg",
+        "caption": "Salt poached duck (盐水鸭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/8dc17e87-956b-49c9-8862-1792430291db_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/nanjing/img3.jpg",
+        "caption": "Duck blood noodles (鸭血粉丝汤).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c8cee9c8-b644-4303-aca7-8f749671357c_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/nanjing/img4.jpg",
+        "caption": "Stuffed duck (八宝鸭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/e397044d-cd3b-4594-98cb-5e6942b80d2d_1169x656.jpeg"
+      },
+      {
+        "src": "assets/images/nanjing/img5.jpg",
+        "caption": "Nanjing Crawfish (小龙虾).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/5035bc55-f660-45ee-9603-9773a2ffa8f4_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/nanjing/img6.jpg",
+        "caption": "Candied Osmanthus Flower and Taro (桂花糖芋苗).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/6e5ced52-307a-4250-8a11-e6a09cc18da0_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Suzhou-Wuxi": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/suzhou-wuxi/img1.jpg",
+        "caption": "‘Big Meat’ Noodles (大肉面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/91f25fda-77ec-43aa-a3c8-1ef30c0f3b53_1080x1439.jpeg"
+      },
+      {
+        "src": "assets/images/suzhou-wuxi/img2.jpg",
+        "caption": "Cherry Pork (樱桃肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ef61a43d-a494-46c4-a787-89a1e06154f1_1080x1439.jpeg"
+      },
+      {
+        "src": "assets/images/suzhou-wuxi/img3.jpg",
+        "caption": "Wuxi Hot and Sour (酸辣汤).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/665300f5-c047-452c-a6db-3855a44ae5b6_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Jiangsu North": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/jiangsu-north/img1.jpg",
+        "caption": "Diguo Chicken (地锅鸡). Diguo",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/9f84bfa3-49fe-437d-8448-ab20aba89435_1080x1427.jpeg"
+      },
+      {
+        "src": "assets/images/jiangsu-north/img2.jpg",
+        "caption": "Sazi Rolls (撒子卷煎饼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/413dfb5b-4ec2-4c2f-a9cb-9634257c2e1b_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jiangsu-north/img3.jpg",
+        "caption": "Xuzhou Spicy Soup (徐州辣汤).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ae6bb02c-94d8-492b-a1e1-e2940eee1d60_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Shanghai": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/shanghai/img1.jpg",
+        "caption": "Pan Fried Bao (生煎).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c9e65f96-6cff-4975-84ae-56eed98d1dd5_1080x1427.jpeg"
+      },
+      {
+        "src": "assets/images/shanghai/img2.jpg",
+        "caption": "Fantuan (粢饭团).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1b17d24b-7df5-4caa-a0f2-52fbf79e0521_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shanghai/img3.jpg",
+        "caption": "Hot Meat Noodles (辣肉面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a86c1ed4-446c-4e7f-9f1f-dc9ece3604e9_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shanghai/img4.jpg",
+        "caption": "Shanghai-style Bakeries (面包房).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a15d1b77-dff0-4e3d-9780-1760929d271b_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shanghai/img5.jpg",
+        "caption": "Haipai Western (海派西餐).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/7595bb79-f0ff-40d6-b575-91e2513d61b2_1440x1080.jpeg"
+      },
+      {
+        "src": "assets/images/shanghai/img6.jpg",
+        "caption": "Schnitzel with Rice Cakes (排骨年糕).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/534688e7-b495-430c-8c55-82ab98144e99_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Anhui South": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/anhui-south/img1.jpg",
+        "caption": "Hairy tofu (毛豆腐).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2259e56a-90f2-4b5b-946c-09c2d05e6474_730x494.jpeg"
+      },
+      {
+        "src": "assets/images/anhui-south/img2.jpg",
+        "caption": "Fermented Vegetable Braised Tofu (千里飘香).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/17f285dd-25e4-4e92-a1f1-80ff75fe881e_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/anhui-south/img3.jpg",
+        "caption": "Yi Pin Guo (一品锅).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ad194213-bfbb-4458-9f87-2fe90c2302ee_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Lu’an": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/lu-an/img1.jpg",
+        "caption": "Lu’an Hanging Pots (吊锅).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/9872e41c-4ef4-48e0-8518-f061f851cf85_1080x1621.jpeg"
+      },
+      {
+        "src": "assets/images/lu-an/img2.jpg",
+        "caption": "Stinky Tofu Guoba (臭豆腐锅巴).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ccc4a1d9-76f3-4cd7-bef3-fc52f6241371_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/lu-an/img3.jpg",
+        "caption": "Soft Baozi (软包子).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/67ef4b19-7333-4a74-bd9f-15a11bf44e47_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Anhui North (and Anhui Central)": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/anhui-north-and-anhui-central/img1.jpg",
+        "caption": "Zajiang Edamame (毛豆杂酱).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d1c8fb3d-236a-4f81-9fc0-6825d336044c_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/anhui-north-and-anhui-central/img2.jpg",
+        "caption": "Xianmo (阜阳地锅咸馍).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/748768fb-51a8-4c28-9233-2f7501ad8acd_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/anhui-north-and-anhui-central/img3.jpg",
+        "caption": "Lamb Noodles (太和羊肉板面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/268c9b1d-d90a-4944-9640-4e6401c91470_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/anhui-north-and-anhui-central/img4.jpg",
+        "caption": "Rooster Pot (老公鸡).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/352ea0f2-f3d7-4095-9c96-42947f0103f3_3024x4032.jpeg"
+      }
+    ]
+  },
+  "Henan": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/henan/img1.jpg",
+        "caption": "Huimian (烩面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/cd082785-add6-4cb2-91e9-1bee75ba0d8e_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/henan/img2.jpg",
+        "caption": "Hot Pepper Soup (胡辣汤).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2111238e-9ccc-4238-9593-f51c66e26d42_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/henan/img3.jpg",
+        "caption": "Zhuangmo (壮馍).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/7c3737bc-b779-4705-af72-679a0edb96bf_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Shanxi": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/shanxi/img1.jpg",
+        "caption": "Kaolaolao (栲栳栳).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ea84fa45-47e7-46de-91bd-16307737a02f_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shanxi/img2.jpg",
+        "caption": "Knife Cut Noodles (刀削面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/5bfa82ef-002f-49db-a0ef-904d8d8481fa_1080x1441.jpeg"
+      },
+      {
+        "src": "assets/images/shanxi/img3.jpg",
+        "caption": "Stone Baked Flatbread (石子馍).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b22dcd1a-570e-4089-a8a6-22a315abbeaf_1079x1920.jpeg"
+      }
+    ]
+  },
+  "Lu": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/lu/img1.jpg",
+        "caption": "Nine Twist Intestine (九转大肠).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/24828310-2204-402e-8534-2aca60230129_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/lu/img2.jpg",
+        "caption": "Sweet and Sour Carp (糖醋鲤鱼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2f105b1e-4257-4162-a50a-0f309227e865_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/lu/img3.jpg",
+        "caption": "Pucai in Milky Stock (奶汤蒲菜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/85408c3f-e582-4e58-8e3c-12584058145a_1920x1080.jpeg"
+      },
+      {
+        "src": "assets/images/lu/img4.jpg",
+        "caption": "Chinese Leek Jianbing (大葱煎饼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1e68ae08-fcb3-418c-a48f-f074d595894a_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/lu/img5.jpg",
+        "caption": "Cantonese Meat (广东肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/fbfaa744-947a-4091-ae78-9455892142c5_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/lu/img6.jpg",
+        "caption": "Dezhou Tender Chicken (德州扒鸡).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/23783119-0b1d-42f9-9292-4fd7181f268a_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Jiaodong": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/jiaodong/img1.jpg",
+        "caption": "Scallion Braised Sea Cucumber (葱烧海参).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/11cd5cd0-7ed7-4b8f-be18-52f6589dc494_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jiaodong/img2.jpg",
+        "caption": "Penis Fish (海肠).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/af5e3415-5e09-4e9e-9684-876673500590_1080x1416.jpeg"
+      },
+      {
+        "src": "assets/images/jiaodong/img3.jpg",
+        "caption": "Seafood Dumpling (鲅鱼水饺).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/dfc5b15f-92bb-4791-9523-4724aa3528b3_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Hebei": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/hebei/img1.jpg",
+        "caption": "Braised Donkey Sandwich (驴肉火烧).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/6279cf5d-edfb-48b0-8145-eb7b335632c1_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hebei/img2.jpg",
+        "caption": "Lionfish (狮子鱼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/92448d34-5da1-484b-b1dc-80db1f265153_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hebei/img3.jpg",
+        "caption": "Baozi (包子).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ff284904-1e51-4bd4-8baf-34e431a70cb7_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Tianjin": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/tianjin/img1.jpg",
+        "caption": "Four Happy Meatballs (四喜丸子).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b228d2a0-de3e-4d07-b3da-605997b8d5ca_1440x1080.jpeg"
+      },
+      {
+        "src": "assets/images/tianjin/img2.jpg",
+        "caption": "Braised beef strips (扒牛肉条)",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1ba77b4a-69ed-40a0-85d1-051f3017a303_863x869.jpeg"
+      },
+      {
+        "src": "assets/images/tianjin/img3.jpg",
+        "caption": "Jianbing (煎饼果子).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/354b5085-36e3-4baf-9b9e-bd6dcf1d9f97_1920x1080.jpeg"
+      },
+      {
+        "src": "assets/images/tianjin/img4.jpg",
+        "caption": "Tangyou Guozi (糖油果子).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b91522f9-4f60-4fcd-aaf9-750e53ea5a1c_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/tianjin/img5.jpg",
+        "caption": "Curry Pulled Noodles (黄汤拉面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b43054e3-36d2-4fd9-b9db-3ece9d9ecc1d_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/tianjin/img6.jpg",
+        "caption": "White sauce dishes (奶爆三样).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/dc85ed42-031c-45d7-adf8-5f72595862d6_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Beijing": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/beijing/img1.jpg",
+        "caption": "Peking Duck (北京烤鸭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/98de0da5-b4fb-47f3-a529-7acf1d0730d0_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/beijing/img2.jpg",
+        "caption": "Naibobo (奶饽饽).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/31391711-b2de-442d-b0f3-35af7b123f3c_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/beijing/img3.jpg",
+        "caption": "Imperial Hotpot (宫廷火锅).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1c055ef6-8870-4660-ad0d-92e7d240a923_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Jilin Dongbei": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/jilin-dongbei/img1.jpg",
+        "caption": "Crispy Sweet and Sour Pork (锅包肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/58ff68c4-a1cd-41b7-b52f-e996efa45eea_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jilin-dongbei/img2.jpg",
+        "caption": "Suancai Pork Belly (酸菜白肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/21d344c9-2325-437f-8c69-97c020ac2a9b_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jilin-dongbei/img3.jpg",
+        "caption": "Iron Pot Braises (铁锅炖).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2ccfa006-868a-4b83-9fbc-7fea9b23aa75_1440x1080.jpeg"
+      },
+      {
+        "src": "assets/images/jilin-dongbei/img4.jpg",
+        "caption": "Di San Xian (地三鲜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/af8322aa-31f8-4a84-b8c4-6f4ca210c3ce_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/jilin-dongbei/img5.jpg",
+        "caption": "Hu Bing (烀饼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/49646ac1-71c9-4787-b489-445f1d510684_1080x1080.jpeg"
+      },
+      {
+        "src": "assets/images/jilin-dongbei/img6.jpg",
+        "caption": "Jiang Gu Jia (酱骨架).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b2d539d6-3fd8-465e-8a8e-7c4102fed9c1_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Liaoning Dongbei": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/liaoning-dongbei/img1.jpg",
+        "caption": "Shrimp Paste Braised Squid (虾酱笔管).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/f07d4ab4-a4a8-4443-b671-bf1f289cb256_1080x1128.jpeg"
+      },
+      {
+        "src": "assets/images/liaoning-dongbei/img2.jpg",
+        "caption": "Seaweed Pancake (海菜饼子).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a7429cb5-3d92-44f8-95fd-87a10b6389d9_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/liaoning-dongbei/img3.jpg",
+        "caption": "Sanxian Menzi (三鲜焖子). Menzi",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/86b91eec-ea7a-4c6b-b2a6-0d7dbd2f5212_1080x1092.jpeg"
+      }
+    ]
+  },
+  "Heilongjiang Dongbei": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/heilongjiang-dongbei/img1.jpg",
+        "caption": "Harbin Kielbasa (哈尔滨红肠).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/26ad57f3-656e-4b07-b3ca-f6236f342e35_1280x960.jpeg"
+      },
+      {
+        "src": "assets/images/heilongjiang-dongbei/img2.jpg",
+        "caption": "Harbin Old Bread (列巴).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/85ee1927-9a08-483d-9051-dbc1f2ab69f8_1440x1080.jpeg"
+      },
+      {
+        "src": "assets/images/heilongjiang-dongbei/img3.jpg",
+        "caption": "Demoli Stewed Fish (得莫利炖鱼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c12a5703-b57a-44b9-b9a2-576569654dbf_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Joseon": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/joseon/img1.jpg",
+        "caption": "Kimchi (泡菜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/30aeeee8-31c5-4eec-a5e6-a6493f6140bb_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/joseon/img2.jpg",
+        "caption": "Rice Wrap (包饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/520ba41c-b6a7-4bc6-a779-8fe58198860b_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/joseon/img3.jpg",
+        "caption": "Ice Cold Noodles (冷面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/e26e88dc-06b1-4d10-a5c1-0ecb31a6402e_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Nei Mongolia East": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/nei-mongolia-east/img1.jpg",
+        "caption": "Lamb Shaomai (羊肉烧麦).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/eb216c96-78cd-4a73-a5a7-7922a3562b64_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/nei-mongolia-east/img2.jpg",
+        "caption": "Shoubarou (手把肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/06654245-d67c-4c22-95d2-d9506117108d_924x1111.jpeg"
+      },
+      {
+        "src": "assets/images/nei-mongolia-east/img3.jpg",
+        "caption": "Ice Boiled Hotpot (冰煮羊).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/f50b52af-e311-4499-87ae-2084de28170b_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Nei Mongolia West": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/nei-mongolia-west/img1.jpg",
+        "caption": "Lamb Shaomai (羊肉烧麦).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/eb216c96-78cd-4a73-a5a7-7922a3562b64_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/nei-mongolia-west/img2.jpg",
+        "caption": "Shoubarou (手把肉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/06654245-d67c-4c22-95d2-d9506117108d_924x1111.jpeg"
+      },
+      {
+        "src": "assets/images/nei-mongolia-west/img3.jpg",
+        "caption": "Ice Boiled Hotpot (冰煮羊).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/f50b52af-e311-4499-87ae-2084de28170b_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Northwest Han-Hui": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/northwest-han-hui/img1.jpg",
+        "caption": "Beef Noodle Soup (兰州牛肉面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/28d5feef-485c-4fca-9627-2a643b98276f_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/northwest-han-hui/img2.jpg",
+        "caption": "Niangpi (酿皮). Niangpi",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b2f20172-88dd-41ba-8090-4474297fc2f7_1080x1339.jpeg"
+      },
+      {
+        "src": "assets/images/northwest-han-hui/img3.jpg",
+        "caption": "Sweet Fermented Oat (甜醅子).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/013550ed-f01e-4368-9921-27c930f618e3_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Han Xinjiang": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/han-xinjiang/img1.png",
+        "caption": "Big Plate Chicken (大盘鸡).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/23edebbb-cdf3-4b24-807f-dc35764a873e_2606x1520.png"
+      },
+      {
+        "src": "assets/images/han-xinjiang/img2.jpg",
+        "caption": "Xinjiang Rice Noodles (新疆炒米粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/face728b-bac9-4a96-8c74-801f6d452800_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/han-xinjiang/img3.jpg",
+        "caption": "Jiaoma Chicken (椒麻鸡).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/aba42859-0602-4dc8-8390-4dc9e5e2d8ec_1440x1080.jpeg"
+      }
+    ]
+  },
+  "Uyghur Xinjiang": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/uyghur-xinjiang/img1.jpg",
+        "caption": "Polo (پولۇ/手抓饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2d3c8d4a-3d54-44fe-adc0-d1b1fe6fe65d_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/uyghur-xinjiang/img2.jpg",
+        "caption": "Samsa (سامسا/烤包子).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d4f20699-89a6-4fe5-9892-3c14f395f25e_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/uyghur-xinjiang/img3.jpg",
+        "caption": "Naan (نان/馕饼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1d304b71-8be2-4f71-bed4-197f2b017d95_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Shaanxi Central": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/shaanxi-central/img1.jpg",
+        "caption": "Liangpi (凉皮).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ed904289-9ce4-4c97-a1ce-dc346b7ff4cb_1080x1439.jpeg"
+      },
+      {
+        "src": "assets/images/shaanxi-central/img2.jpg",
+        "caption": "Rou Jia Mo, a.k.a. ‘Chinese Hamburger’ (肉夹馍).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/3f0725f3-7b6d-439f-87ab-6c98c8f4c6de_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shaanxi-central/img3.jpg",
+        "caption": "Biang Biang Noodles (BB面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/b96803b4-d9f3-406f-a198-415934018f5a_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Shaanxi North": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/shaanxi-north/img1.jpg",
+        "caption": "Shaanbei Big Braise (陕北大烩菜).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c6143526-088b-4cf2-a775-4c50b774201d_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shaanxi-north/img2.jpg",
+        "caption": "Zichang Jianbing (子长煎饼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/77163559-1914-4fbf-8b34-d20868908c1e_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shaanxi-north/img3.jpg",
+        "caption": "Potato Caca (洋芋擦擦).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/12aebb9b-825d-4240-bc17-a01028c7ce81_1080x1080.jpeg"
+      }
+    ]
+  },
+  "Shaanxi South": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/shaanxi-south/img1.jpg",
+        "caption": "Potato Ciba (洋芋搅团).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/263dc8ad-62bc-4f93-b85c-f0dd47854bdb_1080x1080.jpeg"
+      },
+      {
+        "src": "assets/images/shaanxi-south/img2.jpg",
+        "caption": "Hot Mipi (热米皮).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/5e5e30be-ceab-4d40-b3fd-f8d3051a218d_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/shaanxi-south/img3.jpg",
+        "caption": "Mianpi ( 面皮).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/0bd4eac6-ae9d-4db6-a81b-1a0590e98ec3_1080x1434.jpeg"
+      }
+    ]
+  },
+  "Hong Kong": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/hong-kong/img1.jpg",
+        "caption": "Macaroni Soup (火腿通粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2ff69ca4-8bd4-4e62-9e39-81c0192b7184_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/hong-kong/img2.jpg",
+        "caption": "Pineapple Buns (菠萝包).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/31763852-e996-49ff-9147-82a7743367f7_4032x3024.jpeg"
+      },
+      {
+        "src": "assets/images/hong-kong/img3.jpg",
+        "caption": "Hong Kong Milk Tea (港式奶茶).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ef5443fe-21b0-4e33-805e-718bdacddf0e_3024x4032.jpeg"
+      },
+      {
+        "src": "assets/images/hong-kong/img4.jpg",
+        "caption": "“Piggie” Cheong Fun (猪肠粉).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ba237741-99e8-4ecd-8017-d6efa695f93f_4032x2268.jpeg"
+      },
+      {
+        "src": "assets/images/hong-kong/img5.jpg",
+        "caption": "Typhoon Shelter Dishes (避风塘炒蟹). ‘",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ad775055-7cd2-405b-bb4b-8933e60ba24f_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/hong-kong/img6.jpg",
+        "caption": "Cart Noodles (车仔面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/28440b6b-a49d-44e2-b5c3-c8f284306f30_1080x1440.jpeg"
+      }
+    ]
+  },
+  "Fujian-Derived Taiwanese": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/fujian-derived-taiwanese/img1.jpg",
+        "caption": "Taiwan-style Oyster Omelette (蚵仔煎).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/6178ee32-d85a-438f-b68a-f0fdd1d6165f_400x311.jpeg"
+      },
+      {
+        "src": "assets/images/fujian-derived-taiwanese/img2.jpg",
+        "caption": "Oyster Mianxian (蚵仔面线糊). some",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/aa42021d-739e-4745-9206-e38a479484d4_400x300.jpeg"
+      },
+      {
+        "src": "assets/images/fujian-derived-taiwanese/img3.jpg",
+        "caption": "Squid Geng (花枝羹).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2110f5c1-793f-4f38-a85f-04006a17ad9a_400x400.jpeg"
+      }
+    ]
+  },
+  "Non-Fujianese Taiwanese": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/non-fujianese-taiwanese/img1.jpg",
+        "caption": "Guabao (刈包).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d7e697dd-a125-4280-9987-8ef6960774df_400x533.jpeg"
+      },
+      {
+        "src": "assets/images/non-fujianese-taiwanese/img2.jpg",
+        "caption": "Taiwan-style Beef Noodle Soup (台式牛肉面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1aab0eac-2913-4802-a944-dba4f9f3f174_400x533.jpeg"
+      },
+      {
+        "src": "assets/images/non-fujianese-taiwanese/img3.jpg",
+        "caption": "Taiwan-style Hot and Sour Soup (台式酸辣汤).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c30a701c-d2fa-4a44-af46-895aae3e5098_400x300.jpeg"
+      }
+    ]
+  },
+  "Straits Chinese": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/straits-chinese/img1.png",
+        "caption": "Char Kway Teow (炒粿条). ‘",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d148ede5-ba38-442e-b05a-393988422435_1548x1574.png"
+      },
+      {
+        "src": "assets/images/straits-chinese/img2.png",
+        "caption": "Niang Tofu (酿豆腐).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/ebb6d0b3-06ac-4515-a6f9-53239702b17b_2392x1698.png"
+      },
+      {
+        "src": "assets/images/straits-chinese/img3.png",
+        "caption": "Hainan Chicken Rice (海南鸡饭).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/680e8e78-9f57-4c98-95b8-d64695af2724_1488x1506.png"
+      },
+      {
+        "src": "assets/images/straits-chinese/img4.jpg",
+        "caption": "Popiah (润饼).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a38a0cb9-ba75-4f70-af47-6587a4f3641e_2000x1500.jpeg"
+      },
+      {
+        "src": "assets/images/straits-chinese/img5.jpg",
+        "caption": "Bak Kut Teh (肉骨茶).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/a9792fb2-5a19-4f27-8b8b-ced4d04df5d8_2048x1536.jpeg"
+      },
+      {
+        "src": "assets/images/straits-chinese/img6.jpg",
+        "caption": "Fujian Noodles (福建面).",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/455a80a8-d272-4aa3-a178-30edf148499c_4032x3024.jpeg"
+      }
+    ]
+  },
+  "Taiwan": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/taiwan/img1.jpg",
+        "caption": "Taiwan-style Oyster Omelette (蚵仔煎).",
+        "group": "Fujian-Derived Taiwanese",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/6178ee32-d85a-438f-b68a-f0fdd1d6165f_400x311.jpeg"
+      },
+      {
+        "src": "assets/images/taiwan/img2.jpg",
+        "caption": "Oyster Mianxian (蚵仔面线糊). some",
+        "group": "Fujian-Derived Taiwanese",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/aa42021d-739e-4745-9206-e38a479484d4_400x300.jpeg"
+      },
+      {
+        "src": "assets/images/taiwan/img3.jpg",
+        "caption": "Squid Geng (花枝羹).",
+        "group": "Fujian-Derived Taiwanese",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2110f5c1-793f-4f38-a85f-04006a17ad9a_400x400.jpeg"
+      },
+      {
+        "src": "assets/images/taiwan/img4.jpg",
+        "caption": "Guabao (刈包).",
+        "group": "Non-Fujianese Taiwanese",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d7e697dd-a125-4280-9987-8ef6960774df_400x533.jpeg"
+      },
+      {
+        "src": "assets/images/taiwan/img5.jpg",
+        "caption": "Taiwan-style Beef Noodle Soup (台式牛肉面).",
+        "group": "Non-Fujianese Taiwanese",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1aab0eac-2913-4802-a944-dba4f9f3f174_400x533.jpeg"
+      },
+      {
+        "src": "assets/images/taiwan/img6.jpg",
+        "caption": "Taiwan-style Hot and Sour Soup (台式酸辣汤).",
+        "group": "Non-Fujianese Taiwanese",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/c30a701c-d2fa-4a44-af46-895aae3e5098_400x300.jpeg"
+      }
+    ]
+  },
+  "Xinjiang": {
+    "source": "https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete",
+    "images": [
+      {
+        "src": "assets/images/xinjiang/img1.png",
+        "caption": "Big Plate Chicken (大盘鸡).",
+        "group": "Han Xinjiang",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/23edebbb-cdf3-4b24-807f-dc35764a873e_2606x1520.png"
+      },
+      {
+        "src": "assets/images/xinjiang/img2.jpg",
+        "caption": "Xinjiang Rice Noodles (新疆炒米粉).",
+        "group": "Han Xinjiang",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/face728b-bac9-4a96-8c74-801f6d452800_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/xinjiang/img3.jpg",
+        "caption": "Jiaoma Chicken (椒麻鸡).",
+        "group": "Han Xinjiang",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/aba42859-0602-4dc8-8390-4dc9e5e2d8ec_1440x1080.jpeg"
+      },
+      {
+        "src": "assets/images/xinjiang/img4.jpg",
+        "caption": "Polo (پولۇ/手抓饭).",
+        "group": "Uyghur Xinjiang",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/2d3c8d4a-3d54-44fe-adc0-d1b1fe6fe65d_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/xinjiang/img5.jpg",
+        "caption": "Samsa (سامسا/烤包子).",
+        "group": "Uyghur Xinjiang",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/d4f20699-89a6-4fe5-9892-3c14f395f25e_1080x1440.jpeg"
+      },
+      {
+        "src": "assets/images/xinjiang/img6.jpg",
+        "caption": "Naan (نان/馕饼).",
+        "group": "Uyghur Xinjiang",
+        "originalSrc": "https://substack-post-media.s3.amazonaws.com/public/images/1d304b71-8be2-4f71-bed4-197f2b017d95_1080x1440.jpeg"
+      }
+    ]
+  }
+}

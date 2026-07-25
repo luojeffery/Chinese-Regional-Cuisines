@@ -49,11 +49,38 @@
   #closeBtn:hover{color:#fff;background:rgba(255,255,255,.08);}
 
   #sideContent{padding:18px 24px;}
-  #sideContent img{width:100%;border-radius:8px;display:block;margin:10px 0 4px;
-    box-shadow:0 4px 16px rgba(0,0,0,.35);}
-  .imgCaption{font-size:12px;color:var(--muted);margin:0 0 18px;line-height:1.4;font-style:italic;}
+  .imageGallery{display:grid;grid-template-columns:1fr;gap:12px;margin:8px 0 18px;}
+  .imageGallery.gallerySix,.imageGallery.galleryThree{grid-template-columns:repeat(3,minmax(0,1fr));}
+  .imageGallery.galleryFour{grid-template-columns:repeat(2,minmax(0,1fr));}
+  .galleryGroupTitle{font-size:13px;font-weight:700;color:#fff;margin:16px 0 8px;}
+  .galleryGroupTitle:first-child{margin-top:6px;}
+  .galleryItem{min-width:0;}
+  .galleryImageButton{
+    width:100%;padding:0;border:0;background:none;display:block;cursor:pointer;border-radius:6px;
+  }
+  .galleryImageButton:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+  .galleryImageButton img{
+    width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;display:block;margin:0;
+    box-shadow:0 4px 16px rgba(0,0,0,.35);
+  }
+  .imgCaption{font-size:11.5px;color:var(--muted);margin:5px 0 0;line-height:1.35;font-style:italic;}
   .para{font-size:14.5px;line-height:1.65;color:#ddd6cb;margin:0 0 14px;}
   .empty{color:var(--muted);font-size:14px;font-style:italic;padding:40px 0;text-align:center;}
+
+  #imageLightbox{
+    position:fixed;inset:0;z-index:60;background:rgba(7,8,11,.86);
+    display:none;align-items:center;justify-content:center;padding:28px;
+  }
+  #imageLightbox.open{display:flex;}
+  #imageLightboxInner{max-width:min(1100px,96vw);max-height:94vh;display:grid;gap:10px;}
+  #imageLightbox img{max-width:100%;max-height:82vh;object-fit:contain;border-radius:6px;box-shadow:0 12px 42px rgba(0,0,0,.55);}
+  #imageLightboxCaption{margin:0;color:#eee7dd;font-size:13px;line-height:1.45;text-align:center;}
+  #imageLightboxClose{
+    position:fixed;top:16px;right:18px;width:36px;height:36px;border-radius:6px;
+    border:1px solid var(--border);background:rgba(20,20,24,.88);color:#fff;
+    font-size:22px;line-height:1;cursor:pointer;
+  }
+  #imageLightboxClose:hover{background:rgba(224,86,58,.85);}
 
   #labelLayer{position:fixed;inset:0;pointer-events:none;overflow:hidden;z-index:3;}
   .mapLabel{
@@ -95,6 +122,63 @@
     box-shadow:0 2px 10px rgba(0,0,0,.4);
   }
   #resetViewBtn:hover{background:rgba(224,86,58,.85);}
+
+  #editorToggle{
+    display:none;
+    position:fixed;top:14px;left:14px;z-index:12;
+    height:36px;padding:0 12px;border-radius:6px;border:1px solid var(--border);
+    background:rgba(20,20,24,.88);color:#fff;font-size:12px;font-weight:700;cursor:pointer;
+    box-shadow:0 2px 10px rgba(0,0,0,.35);
+  }
+  #editorToggle.active{background:rgba(224,86,58,.94);}
+  #editorToggle:disabled{opacity:.45;cursor:not-allowed;background:rgba(20,20,24,.72);}
+  #editorPanel{
+    position:fixed;top:58px;left:14px;bottom:58px;width:330px;max-width:calc(100vw - 28px);
+    z-index:11;background:rgba(27,30,39,.96);border:1px solid var(--border);
+    border-radius:8px;box-shadow:0 12px 38px rgba(0,0,0,.45);
+    display:none;overflow:hidden;
+  }
+  #editorPanel.open{display:flex;flex-direction:column;}
+  #editorPanel.open.collapsed{display:none;}
+  #editorHeader{padding:14px 14px 10px;border-bottom:1px solid var(--border);background:var(--panel2);}
+  #editorHeaderTop{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px;}
+  #editorHeader h2{margin:0;font-size:15px;color:#fff;}
+  #hideEditorPanelBtn{
+    height:28px;padding:0 9px;border-radius:6px;border:1px solid var(--border);
+    background:rgba(255,255,255,.07);color:#ddd6cb;font-size:12px;font-weight:700;cursor:pointer;
+  }
+  #hideEditorPanelBtn:hover{background:rgba(224,86,58,.75);color:#fff;}
+  #activeRegion{display:flex;align-items:center;gap:8px;font-size:12px;color:#ddd6cb;margin-bottom:10px;}
+  #paintScope{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:10px;}
+  #paintScope button{
+    height:30px;border-radius:6px;border:1px solid var(--border);
+    background:rgba(255,255,255,.06);color:#ddd6cb;font-size:12px;font-weight:700;cursor:pointer;
+  }
+  #paintScope button.active{background:rgba(224,86,58,.94);border-color:rgba(255,255,255,.3);color:#fff;}
+  .swatchChip{width:18px;height:18px;border-radius:4px;border:1px solid rgba(255,255,255,.65);flex:none;}
+  #regionSearch,#correctionsOutput{
+    width:100%;background:#11141b;color:#fff;border:1px solid var(--border);border-radius:6px;
+    font:12px "Segoe UI",-apple-system,BlinkMacSystemFont,sans-serif;
+  }
+  #regionSearch{height:32px;padding:0 9px;}
+  #regionList{overflow:auto;padding:8px;display:flex;flex-direction:column;gap:5px;}
+  .regionOption{
+    width:100%;display:grid;grid-template-columns:20px 1fr auto;align-items:center;gap:8px;
+    background:rgba(255,255,255,.04);border:1px solid transparent;color:#eee7dd;
+    border-radius:6px;padding:7px 8px;text-align:left;cursor:pointer;font-size:12px;
+  }
+  .regionOption:hover{background:rgba(255,255,255,.08);}
+  .regionOption.active{border-color:var(--accent);background:rgba(224,86,58,.16);}
+  .regionCount{color:var(--muted);font-size:11px;}
+  #editorFooter{padding:10px 14px 14px;border-top:1px solid var(--border);display:grid;gap:8px;}
+  #editStatus{font-size:12px;color:var(--muted);line-height:1.4;}
+  .editorActions{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+  .editorActions button{
+    height:32px;border-radius:6px;border:1px solid var(--border);background:rgba(255,255,255,.07);
+    color:#fff;font-size:12px;cursor:pointer;
+  }
+  .editorActions button:hover{background:rgba(224,86,58,.75);}
+  #correctionsOutput{height:86px;padding:8px;resize:none;}
 </style>
 </head>
 <body>
@@ -107,13 +191,50 @@
   <button id="zoomInBtn" title="Zoom in">+</button>
   <button id="zoomOutBtn" title="Zoom out">&minus;</button>
 </div>
+<button id="editorToggle" title="Region editing disabled" disabled aria-hidden="true">Edit regions</button>
+<div id="editorPanel" aria-label="Food region editor">
+  <div id="editorHeader">
+    <div id="editorHeaderTop">
+      <h2>Paint Food Regions</h2>
+      <button id="hideEditorPanelBtn" type="button" title="Hide painting tools">Hide</button>
+    </div>
+    <div id="activeRegion"><span class="swatchChip"></span><span>Select a region</span></div>
+    <div id="paintScope" role="group" aria-label="Paint scope">
+      <button class="active" type="button" data-paint-scope="county">County</button>
+      <button type="button" data-paint-scope="prefecture">Prefecture</button>
+    </div>
+    <input id="regionSearch" type="search" placeholder="Search food regions" />
+  </div>
+  <div id="regionList"></div>
+  <div id="editorFooter">
+    <div id="editStatus">No county edits yet.</div>
+    <textarea id="correctionsOutput" readonly spellcheck="false"></textarea>
+    <div class="editorActions">
+      <button id="copyCorrectionsBtn" type="button">Copy JSON</button>
+      <button id="undoCorrectionBtn" type="button">Undo</button>
+      <button id="clearCorrectionsBtn" type="button">Clear edits</button>
+      <button id="refreshExportBtn" type="button">Refresh JSON</button>
+    </div>
+  </div>
+</div>
 <div id="sidebar">
   <div id="sidebarInner">
     <div class="empty" style="padding:60px 24px;">Click any region on the map to see its dishes, description, and Chinese name/terms.</div>
   </div>
 </div>
+<div id="imageLightbox" aria-hidden="true">
+  <button id="imageLightboxClose" type="button" title="Close image">&times;</button>
+  <div id="imageLightboxInner">
+    <img id="imageLightboxImg" alt="" />
+    <p id="imageLightboxCaption"></p>
+  </div>
+</div>
 
-<script>
+<script src="assets/editor_state.js?v=edit-regions-hidden"></script>
+<script src="assets/input_events.js?v=edit-regions-hidden"></script>
+<script src="assets/spatial_index.js?v=edit-regions-hidden"></script>
+<script src="assets/map.js?v=edit-regions-hidden"></script>
+<script type="text/plain" id="legacy-raster-script">
 const canvas = document.getElementById('stage');
 const ctx = canvas.getContext('2d');
 const hoverLabel = document.getElementById('hoverLabel');
